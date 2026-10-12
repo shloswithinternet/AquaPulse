@@ -1,0 +1,43 @@
+{
+  "overall_holdout": {
+    "MAE": 78.174,
+    "RMSE": 675.356,
+    "MAPE_%": 12.07,
+    "R2": 0.9522
+  },
+  "transfer": {
+    "target_city": "Surat",
+    "zero_shot": {
+      "MAE": 331.497,
+      "RMSE": 502.383,
+      "MAPE_%": 6.62,
+      "R2": 0.9739
+    },
+    "few_shot_7d": null,
+    "donors": [
+      [
+        "Chennai",
+        2.031
+      ],
+      [
+        "Kolkata",
+        2.942
+      ],
+      [
+        "Mumbai",
+        3.274
+      ]
+    ]
+  },
+  "target_city": "Ahmedabad",
+  "national": {
+    "n_cities": 584,
+    "n_states_ut": 36,
+    "n_zones": 2665,
+    "total_demand_kl": 56318094.4,
+    "total_shortage_kl": 6479442.6,
+    "total_excess_kl": 6486963.2,
+    "at_risk_zones": 878,
+    "cities_in_crisis": 2
+  }
+}

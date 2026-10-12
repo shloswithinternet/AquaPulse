@@ -1,0 +1,585 @@
+city,state_ut,climate_zone,pop_millions,supply_ml,demand_kl,shortage_kl,excess_kl,worst_risk,abundance_band,crisis_level,crisis_score,disaster_risk,growth_pct,days_of_buffer,divergence_index,nearest_donor,unmet_reduction_pct
+Barmer,Rajasthan,arid,0.01,1.1,2196.8,1212.0,0.0,0.577,severe-scarcity,warning,0.4676,0.5658,2.11,6.0,0.2759,Jamnagar,0.0
+Jaisalmer,Rajasthan,arid,0.0655,8.0,12550.4,5378.4,0.0,0.5277,severe-scarcity,watch,0.4202,0.5658,1.69,7.1,0.2143,,-0.0
+Hanumangarh,Rajasthan,arid,0.1297,15.8,24585.9,10342.2,0.0,0.5254,severe-scarcity,watch,0.4317,0.5658,2.0,9.0,0.2103,Doda,-0.0
+Surendranagar,Gujarat,arid,0.0758,9.3,14693.7,6229.7,0.0,0.5207,severe-scarcity,warning,0.4512,0.5658,2.28,9.9,0.212,Bhavnagar,0.0
+Bhuj,Gujarat,arid,0.1882,24.8,37907.5,15436.2,0.0,0.5204,severe-scarcity,watch,0.4474,0.5658,2.02,9.7,0.2036,Jamnagar,0.0
+Bikaner,Rajasthan,arid,0.529,69.8,106637.6,43440.7,0.0,0.5154,severe-scarcity,watch,0.4477,0.5658,1.4,7.7,0.2037,Doda,0.0
+Sri Ganganagar,Rajasthan,arid,0.2378,31.4,48499.2,20182.7,0.0,0.5139,severe-scarcity,watch,0.4223,0.5658,1.5,7.4,0.2081,Doda,-0.0
+Rohini,Delhi,semi-arid,0.01,1.3,2191.3,1018.1,0.0,0.5023,severe-scarcity,watch,0.4214,0.5291,2.56,12.0,0.2323,Noida,-0.0
+Najafgarh,Delhi,semi-arid,0.01,1.3,2105.7,934.0,0.0,0.4856,severe-scarcity,watch,0.4271,0.5291,2.67,13.1,0.2218,Noida,-0.0
+Gandhidham,Gujarat,arid,0.2487,32.8,50411.6,20790.0,0.0,0.4808,severe-scarcity,watch,0.4025,0.5658,1.97,9.4,0.2062,Jamnagar,-0.0
+Dahod,Gujarat,semi-arid,0.01,1.3,2072.7,892.4,0.0,0.4697,severe-scarcity,watch,0.3903,0.5291,2.55,13.1,0.2153,Chamba,-0.0
+Jagtial,Telangana,semi-arid,0.01,1.3,2052.4,865.3,0.0,0.4678,severe-scarcity,watch,0.4118,0.5291,1.92,10.8,0.2108,Purnia,0.0
+Suryapet,Telangana,semi-arid,0.01,1.3,2043.6,858.4,0.0,0.4674,severe-scarcity,watch,0.4241,0.5291,2.35,12.6,0.21,Ongole,-0.0
+Betul,Madhya Pradesh,semi-arid,0.01,1.3,2049.7,869.7,0.0,0.4664,severe-scarcity,watch,0.3802,0.5291,1.96,10.8,0.2122,Banda,0.0
+Wanaparthy,Telangana,semi-arid,0.01,1.3,2015.2,846.4,0.0,0.4647,severe-scarcity,watch,0.3821,0.5291,1.98,10.7,0.21,Ongole,0.0
+Mohali,Punjab,semi-arid,0.01,1.3,2051.0,876.7,0.0,0.4607,severe-scarcity,watch,0.3849,0.5291,2.26,11.9,0.2137,Basti,0.0
+Beed,Maharashtra,semi-arid,0.01,1.3,2005.7,831.3,0.0,0.4598,severe-scarcity,watch,0.38,0.5291,2.28,12.3,0.2072,Purnia,-0.0
+Karol Bagh,Delhi,semi-arid,0.01,1.3,2005.6,819.7,0.0,0.4454,severe-scarcity,watch,0.3831,0.5291,2.53,13.9,0.2044,Noida,-0.0
+Dholpur,Rajasthan,semi-arid,0.01,1.3,1931.3,746.6,0.0,0.4296,severe-scarcity,watch,0.3902,0.5291,2.56,14.4,0.1933,Nyoma,-0.0
+Latur,Maharashtra,semi-arid,0.01,1.3,1955.5,771.7,0.0,0.4291,severe-scarcity,watch,0.3685,0.5291,2.6,14.4,0.1973,Purnia,0.0
+Tonk,Rajasthan,semi-arid,0.01,1.3,1921.2,727.7,0.0,0.4277,severe-scarcity,watch,0.3957,0.5291,1.94,11.8,0.1894,Mathura,-0.0
+Hingoli,Maharashtra,semi-arid,0.01,1.3,1912.0,729.0,0.0,0.4246,severe-scarcity,watch,0.388,0.5291,2.38,13.3,0.1906,Purnia,0.0
+Shahdara,Delhi,semi-arid,0.01,1.3,1901.2,724.9,0.0,0.4238,severe-scarcity,watch,0.3677,0.5291,2.24,12.9,0.1907,Noida,0.0
+Miryalaguda,Telangana,semi-arid,0.01,1.3,1906.0,718.8,0.0,0.4237,severe-scarcity,watch,0.3551,0.5291,2.19,13.0,0.1885,Ongole,-0.0
+Neemuch,Madhya Pradesh,semi-arid,0.01,1.3,1880.7,700.6,0.0,0.4228,severe-scarcity,watch,0.4117,0.5291,2.56,14.3,0.1863,Chamba,0.0
+Saket,Delhi,semi-arid,0.01,1.3,1916.8,736.0,0.0,0.4213,severe-scarcity,watch,0.3659,0.5291,2.07,12.1,0.192,Noida,0.0
+Vadodara,Gujarat,semi-arid,2.0658,359.0,443288.6,120447.4,2735.9,0.419,severe-scarcity,watch,0.3668,0.5291,1.58,15.6,0.1389,Chamba,2.3
+Vasant Kunj,Delhi,semi-arid,0.01,1.3,1872.5,692.0,0.0,0.4188,severe-scarcity,watch,0.3601,0.5291,2.07,12.4,0.1848,Noida,0.0
+Chitradurga,Karnataka,tropical-dry,0.01,1.5,2140.9,791.6,0.0,0.4163,severe-scarcity,watch,0.3607,0.52,2.61,13.7,0.1849,Udupi,0.0
+Deesa,Gujarat,semi-arid,0.01,1.3,1870.0,699.7,0.0,0.4128,severe-scarcity,watch,0.3545,0.5291,2.02,11.8,0.1871,Chamba,-0.0
+Dwarka,Delhi,semi-arid,0.01,1.3,1877.9,703.4,0.0,0.4096,severe-scarcity,watch,0.3589,0.5291,2.43,13.7,0.1873,Noida,-0.0
+Narela,Delhi,semi-arid,0.01,1.3,1849.5,681.1,0.0,0.4059,severe-scarcity,watch,0.3828,0.5291,2.48,13.8,0.1841,Ghaziabad,-0.0
+Durg,Chhattisgarh,tropical-dry,0.01,1.5,2128.0,755.7,0.0,0.3991,severe-scarcity,watch,0.3382,0.52,2.02,12.0,0.1776,Bargarh,-0.0
+Batala,Punjab,semi-arid,0.1833,28.7,34489.2,8475.5,0.0,0.3986,scarcity,watch,0.3408,0.5291,2.28,18.0,0.1229,Anantnag,0.0
+Yadgir,Karnataka,tropical-dry,0.01,1.5,2090.6,725.6,0.0,0.3984,severe-scarcity,watch,0.3369,0.52,2.12,12.5,0.1735,Purnia,-0.0
+Thanjavur,Tamil Nadu,tropical-dry,0.01,1.5,2066.0,702.8,0.0,0.3952,severe-scarcity,watch,0.3406,0.52,2.57,14.6,0.1701,Cuddalore,0.0
+Tirunelveli,Tamil Nadu,tropical-dry,0.01,1.5,2047.3,694.1,0.0,0.3942,severe-scarcity,watch,0.3398,0.52,2.33,13.2,0.1695,Thoothukudi,0.0
+Bhopal,Madhya Pradesh,semi-arid,1.7982,281.3,338377.9,85028.3,2605.2,0.3933,scarcity,watch,0.3463,0.5291,1.71,16.8,0.1295,Banda,3.1
+Rajkot,Gujarat,semi-arid,2.043,355.1,415902.9,98094.2,5048.2,0.3933,scarcity,watch,0.3519,0.5291,1.91,18.4,0.124,Gonda,5.1
+Jaipur,Rajasthan,semi-arid,3.0734,534.2,633976.6,156687.2,6001.3,0.3845,scarcity,watch,0.3562,0.5291,1.87,17.8,0.1283,Mathura,3.8
+Pune,Maharashtra,semi-arid,8.231,1430.5,1686607.6,415003.9,18993.4,0.3827,scarcity,watch,0.3488,0.5291,1.4,16.0,0.1287,Panvel,4.6
+Medak,Telangana,semi-arid,0.0443,5.9,7128.5,1793.7,0.0,0.3821,severe-scarcity,watch,0.3242,0.5291,2.18,16.3,0.1258,Purnia,0.0
+Indore,Madhya Pradesh,semi-arid,1.9944,311.9,372671.2,95222.5,4820.8,0.3796,scarcity,watch,0.3411,0.5291,1.8,17.1,0.1342,Chamba,5.1
+Adilabad,Telangana,semi-arid,0.1172,17.0,19987.1,4733.0,0.0,0.3795,scarcity,watch,0.3474,0.5291,1.74,14.6,0.1184,Purnia,0.0
+Kishangarh,Rajasthan,semi-arid,0.1549,24.2,28559.5,6581.1,0.0,0.3783,scarcity,watch,0.3064,0.5291,1.79,15.7,0.1152,Mathura,-0.0
+Satara,Maharashtra,semi-arid,0.1791,28.0,33476.3,8167.1,0.0,0.3783,scarcity,watch,0.32,0.5291,2.05,16.3,0.122,Ratnagiri,-0.0
+Gondia,Maharashtra,semi-arid,0.1328,19.2,22834.9,5458.9,0.0,0.3774,scarcity,watch,0.3597,0.5291,1.91,15.3,0.1195,Banda,-0.0
+Washim,Maharashtra,semi-arid,0.0629,9.1,10955.1,2758.7,0.0,0.3766,severe-scarcity,watch,0.3385,0.5291,2.44,17.3,0.1259,Purnia,0.0
+Bodhan,Telangana,semi-arid,0.0776,11.2,12999.0,2945.9,0.0,0.3761,scarcity,watch,0.3098,0.5291,1.75,14.5,0.1133,Purnia,0.0
+Mandsaur,Madhya Pradesh,semi-arid,0.1417,20.5,24981.2,6174.5,0.0,0.3755,scarcity,watch,0.3579,0.5291,2.23,18.1,0.1236,Chamba,-0.0
+Damoh,Madhya Pradesh,semi-arid,0.1689,26.4,30834.3,7050.5,0.0,0.373,scarcity,watch,0.3037,0.5291,2.05,16.8,0.1143,Banda,0.0
+Abohar,Punjab,semi-arid,0.1453,21.1,24330.8,5172.0,0.0,0.3726,scarcity,watch,0.313,0.5291,2.18,18.2,0.1063,Doda,-0.0
+Tiruchirappalli,Tamil Nadu,tropical-dry,0.01,1.5,2010.4,663.9,0.0,0.3712,severe-scarcity,watch,0.3306,0.52,2.02,11.7,0.1651,Cuddalore,-0.0
+Yavatmal,Maharashtra,semi-arid,0.1166,16.9,20008.7,4759.8,0.0,0.3701,scarcity,watch,0.3582,0.5291,2.16,17.0,0.1189,Purnia,-0.0
+Nagpur,Maharashtra,semi-arid,2.4057,418.1,495171.5,120434.7,3685.4,0.3698,scarcity,watch,0.3455,0.5291,1.4,15.3,0.1253,Purnia,3.1
+Siddipet,Telangana,semi-arid,0.0667,9.6,11488.0,2823.0,0.0,0.3697,scarcity,watch,0.3305,0.5291,2.32,17.3,0.1229,Purnia,0.0
+Amreli,Gujarat,semi-arid,0.118,17.1,20416.5,4850.4,0.0,0.3695,scarcity,watch,0.3555,0.5291,2.13,17.1,0.1188,Gonda,0.0
+Hyderabad,Telangana,semi-arid,10.494,1823.8,2137537.8,504204.1,11369.1,0.3694,scarcity,watch,0.3374,0.5291,1.0,14.1,0.1206,Purnia,2.3
+Ahilyanagar,Maharashtra,semi-arid,0.3509,54.9,65386.2,15564.5,0.0,0.3688,scarcity,watch,0.3138,0.5291,1.63,15.3,0.119,Ulhasnagar,-0.0
+Jalna,Maharashtra,semi-arid,0.393,61.4,71579.8,16197.0,0.0,0.3669,scarcity,watch,0.3246,0.5291,1.98,17.1,0.1131,Purnia,-0.0
+New Delhi,Delhi,semi-arid,0.25,39.1,46589.6,11200.2,0.0,0.3666,scarcity,watch,0.3084,0.5291,1.7,15.2,0.1202,Noida,0.0
+Itarsi,Madhya Pradesh,semi-arid,0.0993,14.4,17161.3,4047.2,0.0,0.3662,scarcity,watch,0.3144,0.5291,2.32,18.2,0.1179,Banda,0.0
+Patiala,Punjab,semi-arid,0.7633,119.4,143146.9,35436.2,0.0,0.366,scarcity,watch,0.3562,0.5291,1.58,14.5,0.1238,Basti,-0.0
+Sirsa,Haryana,semi-arid,0.1825,28.6,33615.3,7786.6,0.0,0.3659,scarcity,watch,0.3109,0.5291,2.03,16.8,0.1158,Doda,-0.0
+Dewas,Madhya Pradesh,semi-arid,0.2895,45.3,53629.5,12633.0,0.0,0.3649,scarcity,watch,0.3267,0.5291,1.85,16.0,0.1178,Chamba,-0.0
+Solapur,Maharashtra,semi-arid,0.9516,148.8,172863.0,39106.7,0.0,0.3635,scarcity,watch,0.3265,0.5291,1.53,15.2,0.1131,Purnia,-0.0
+Bhiwani,Haryana,semi-arid,0.1977,30.9,37163.8,9118.9,0.0,0.3634,scarcity,watch,0.3279,0.5291,2.27,17.7,0.1227,Noida,0.0
+Mahbubnagar,Telangana,semi-arid,0.1904,29.8,35032.5,8260.1,0.0,0.363,scarcity,watch,0.3563,0.5291,2.07,16.6,0.1179,Ongole,0.0
+Jind,Haryana,semi-arid,0.1676,26.2,31113.2,7352.4,0.0,0.3627,scarcity,watch,0.3163,0.5291,2.32,18.2,0.1182,Noida,-0.0
+Mehsana,Gujarat,semi-arid,0.185,28.9,34977.0,8825.4,0.0,0.3623,severe-scarcity,watch,0.3513,0.5291,1.9,15.5,0.1262,Chamba,-0.0
+Chhatrapati Sambhajinagar,Maharashtra,semi-arid,1.1751,183.8,216344.4,50097.3,0.0,0.3623,scarcity,watch,0.3426,0.5291,1.35,14.3,0.1158,Purnia,0.0
+Anand,Gujarat,semi-arid,0.1305,18.9,22248.8,5344.6,0.0,0.3619,scarcity,watch,0.3515,0.5291,2.08,16.1,0.1201,Chamba,0.0
+Dharashiv,Maharashtra,semi-arid,0.1121,16.2,19065.0,4548.1,0.0,0.3618,scarcity,watch,0.2956,0.5291,1.72,14.3,0.1193,Purnia,0.0
+Botad,Gujarat,semi-arid,0.1303,18.8,22355.3,5158.9,0.0,0.3617,scarcity,watch,0.3096,0.5291,1.61,14.7,0.1154,Bhavnagar,0.0
+Kalol,Gujarat,semi-arid,0.1337,19.4,22186.7,4606.5,0.0,0.3611,scarcity,watch,0.2851,0.5291,2.01,16.8,0.1038,Chamba,-0.0
+Wardha,Maharashtra,semi-arid,0.1064,15.4,18086.0,4113.6,0.0,0.3606,scarcity,watch,0.3209,0.5291,2.27,17.7,0.1137,Purnia,-0.0
+Ramanagara,Karnataka,tropical-dry,0.01,1.5,1985.1,617.7,0.0,0.3598,severe-scarcity,watch,0.3189,0.52,2.35,14.4,0.1556,Manjeri,-0.0
+Kapurthala,Punjab,semi-arid,0.1019,14.7,17376.2,4077.1,0.0,0.3591,scarcity,watch,0.3223,0.5291,2.26,17.7,0.1173,Anantnag,-0.0
+Nadiad,Gujarat,semi-arid,0.2251,35.2,41625.6,9695.6,0.0,0.358,scarcity,watch,0.3274,0.5291,2.2,18.0,0.1165,Chamba,0.0
+Godhra,Gujarat,semi-arid,0.1619,25.3,30528.0,7694.7,0.0,0.3579,severe-scarcity,watch,0.3304,0.5291,2.3,17.6,0.126,Chamba,0.0
+Ahmedabad,Gujarat,semi-arid,8.009,1391.9,1572435.0,333783.8,16285.9,0.3579,scarcity,watch,0.3337,0.5291,1.55,17.4,0.1113,Chamba,4.9
+Khandwa,Madhya Pradesh,semi-arid,0.2007,31.4,37743.6,9245.0,0.0,0.3578,scarcity,watch,0.3037,0.5291,1.98,16.6,0.1225,Purnia,-0.0
+Jetpur,Gujarat,semi-arid,0.1297,18.8,22343.2,5304.7,0.0,0.3578,scarcity,watch,0.3214,0.5291,2.21,17.6,0.1187,Gonda,0.0
+Bharatpur,Rajasthan,semi-arid,0.2523,39.5,46746.2,10955.2,0.0,0.3574,scarcity,watch,0.307,0.5291,1.91,16.5,0.1172,Mathura,0.0
+Chandigarh,Chandigarh,semi-arid,1.0554,165.1,192846.0,43810.2,0.0,0.3573,scarcity,watch,0.3151,0.5291,1.45,15.0,0.1136,Basti,-0.0
+Narnaul,Haryana,semi-arid,0.1459,21.2,24777.4,5589.3,0.0,0.3567,scarcity,watch,0.3015,0.5291,1.69,15.1,0.1128,Noida,0.0
+Chandrapur,Maharashtra,semi-arid,0.518,81.0,93701.0,20671.4,0.0,0.3564,scarcity,watch,0.3166,0.5291,1.69,15.9,0.1103,Purnia,-0.0
+Kolhapur,Maharashtra,semi-arid,0.5615,87.8,104477.9,25203.3,0.0,0.3561,scarcity,watch,0.3204,0.5291,1.43,14.3,0.1206,Ratnagiri,-0.0
+Udaipur,Rajasthan,semi-arid,0.4511,70.6,82664.0,18947.5,0.0,0.3558,scarcity,watch,0.3264,0.5291,2.16,18.1,0.1146,Chamba,-0.0
+Ujjain,Madhya Pradesh,semi-arid,0.5152,80.6,94032.8,21774.9,0.0,0.3557,scarcity,watch,0.3365,0.5291,2.04,17.2,0.1158,Chamba,-0.0
+Ludhiana,Punjab,semi-arid,1.6189,253.3,293580.5,65002.6,0.0,0.3553,scarcity,watch,0.3138,0.5291,1.59,16.2,0.1107,Bilaspur (Himachal Pradesh),-0.0
+Nizamabad,Telangana,semi-arid,0.3112,48.7,57042.7,12910.8,0.0,0.355,scarcity,watch,0.307,0.5291,2.16,18.2,0.1132,Purnia,-0.0
+Morbi,Gujarat,semi-arid,0.1949,30.5,36274.6,8910.0,0.0,0.3548,scarcity,watch,0.3559,0.5291,1.81,15.1,0.1228,Jamnagar,-0.0
+Sikar,Rajasthan,semi-arid,0.3593,56.2,66578.3,16054.5,0.0,0.3547,scarcity,watch,0.317,0.5291,2.23,17.8,0.1206,Noida,-0.0
+Vikarabad,Telangana,semi-arid,0.0531,7.7,9089.0,2108.2,0.0,0.3539,scarcity,watch,0.3138,0.5291,2.35,17.7,0.116,Purnia,0.0
+Jabalpur,Madhya Pradesh,semi-arid,1.2676,198.2,238131.8,58641.9,0.0,0.3533,scarcity,watch,0.3457,0.5291,1.48,15.1,0.1231,Banda,0.0
+Guna,Madhya Pradesh,semi-arid,0.1809,28.3,32880.5,7153.0,0.0,0.3531,scarcity,watch,0.3305,0.5291,2.28,18.6,0.1088,Jhansi,-0.0
+Chittorgarh,Rajasthan,semi-arid,0.1164,16.9,19504.7,4120.6,0.0,0.353,scarcity,watch,0.2778,0.5291,2.2,17.9,0.1056,Chamba,0.0
+Phagwara,Punjab,semi-arid,0.118,17.1,19885.9,4485.7,0.0,0.353,scarcity,watch,0.3267,0.5291,2.18,17.3,0.1128,Hamirpur,-0.0
+Bahadurgarh,Haryana,semi-arid,0.15,23.5,27601.6,6468.0,0.0,0.3524,scarcity,watch,0.303,0.5291,2.04,16.4,0.1172,Noida,0.0
+Baramati,Maharashtra,semi-arid,0.0544,7.8,9141.0,2042.2,0.0,0.3523,scarcity,watch,0.2948,0.5291,1.99,16.2,0.1117,Panvel,-0.0
+Satna,Madhya Pradesh,semi-arid,0.283,44.3,51023.6,10812.5,0.0,0.3522,scarcity,watch,0.3047,0.5291,1.9,17.2,0.106,Rae Bareli,-0.0
+Khanna,Punjab,semi-arid,0.1281,18.5,21839.8,5108.4,0.0,0.3515,scarcity,watch,0.287,0.5291,1.66,14.7,0.117,Basti,0.0
+Karimnagar,Telangana,semi-arid,0.7974,124.8,146810.1,33217.1,0.0,0.3514,scarcity,watch,0.3263,0.5291,1.98,18.1,0.1131,Purnia,0.0
+Dhar,Madhya Pradesh,semi-arid,0.0939,13.6,15972.9,3727.4,0.0,0.35,scarcity,watch,0.3092,0.5291,1.94,15.7,0.1167,Chamba,0.0
+Moga,Punjab,semi-arid,0.1599,25.0,29205.1,6290.1,0.0,0.3499,scarcity,watch,0.3213,0.5291,1.96,17.2,0.1077,Doda,0.0
+Mancherial,Telangana,semi-arid,0.11,15.9,18786.7,4319.3,0.0,0.3499,scarcity,watch,0.2988,0.5291,2.07,16.9,0.115,Purnia,-0.0
+Parbhani,Maharashtra,semi-arid,0.3072,48.1,56818.2,12955.9,0.0,0.3498,scarcity,watch,0.3417,0.5291,1.47,14.1,0.114,Purnia,-0.0
+Bathinda,Punjab,semi-arid,0.2858,44.7,52659.6,11821.7,0.0,0.3492,scarcity,watch,0.3147,0.5291,1.89,17.2,0.1122,Doda,-0.0
+Bhiwandi,Maharashtra,semi-arid,0.7097,111.0,126675.4,26919.7,0.0,0.3485,scarcity,watch,0.3363,0.5291,1.55,15.3,0.1063,Kalyan-Dombivli,0.0
+Sagar,Madhya Pradesh,semi-arid,0.0546,7.9,9349.5,2231.6,0.0,0.3484,scarcity,watch,0.3107,0.5291,1.89,15.0,0.1193,Udupi,-0.0
+Jodhpur,Rajasthan,semi-arid,1.0339,161.7,187815.9,41897.8,0.0,0.3483,scarcity,watch,0.3389,0.5291,1.46,14.9,0.1115,Chamba,-0.0
+Hoshiarpur,Punjab,semi-arid,0.15,23.5,27847.5,6704.6,0.0,0.3479,scarcity,watch,0.3364,0.5291,1.9,15.6,0.1204,Kathua,-0.0
+Bhilwara,Rajasthan,semi-arid,0.7095,111.0,130542.0,27600.6,0.0,0.3463,scarcity,watch,0.3283,0.5291,2.01,18.5,0.1057,Nyoma,-0.0
+Karnal,Haryana,semi-arid,0.3573,55.9,66200.2,15621.9,0.0,0.3459,scarcity,watch,0.3504,0.5291,2.07,17.5,0.118,Saharanpur,0.0
+Sangli,Maharashtra,semi-arid,0.4366,68.3,80093.4,18070.2,0.0,0.3457,scarcity,watch,0.3018,0.5291,1.98,17.5,0.1128,Ratnagiri,-0.0
+Chhindwara,Madhya Pradesh,semi-arid,0.2027,31.7,37506.8,8897.5,0.0,0.3455,scarcity,watch,0.3222,0.5291,1.73,15.2,0.1186,Banda,0.0
+Khammam,Telangana,semi-arid,0.1963,30.7,35745.3,8010.9,0.0,0.3448,scarcity,watch,0.3334,0.5291,2.31,18.5,0.1121,Machilipatnam,0.0
+Khargone,Madhya Pradesh,semi-arid,0.215,33.6,38029.3,7527.2,0.0,0.3446,scarcity,watch,0.3328,0.5291,1.98,17.6,0.099,Chamba,0.0
+Hisar,Haryana,semi-arid,0.307,48.0,55731.4,12459.4,0.0,0.3443,scarcity,watch,0.3318,0.5291,2.17,17.9,0.1118,Noida,-0.0
+Pithampur,Madhya Pradesh,semi-arid,0.1261,18.2,20953.1,4496.6,0.0,0.3442,scarcity,watch,0.3285,0.5291,2.12,17.2,0.1073,Chamba,0.0
+Fatehabad,Haryana,semi-arid,0.0708,10.2,11590.9,2378.3,0.0,0.3441,scarcity,watch,0.3087,0.5291,1.66,14.8,0.1026,Doda,-0.0
+Bidar,Karnataka,tropical-dry,0.1723,29.8,32629.2,5707.9,0.0,0.3436,scarcity,watch,0.2967,0.52,1.73,15.3,0.0875,Purnia,-0.0
+Barnala,Punjab,semi-arid,0.1164,16.9,20089.1,4742.2,0.0,0.3432,scarcity,watch,0.3195,0.5291,1.75,15.2,0.118,Doda,-0.0
+Rewa,Madhya Pradesh,semi-arid,0.2365,37.0,43731.8,10195.0,0.0,0.343,scarcity,watch,0.3103,0.5291,1.76,15.8,0.1166,Mirzapur,-0.0
+Pathankot,Punjab,semi-arid,0.1559,24.4,27682.9,5647.3,0.0,0.3426,scarcity,watch,0.3258,0.5291,2.34,19.0,0.102,Kathua,-0.0
+Gurugram,Haryana,semi-arid,0.8768,137.2,158749.7,33938.9,0.0,0.3418,scarcity,watch,0.3085,0.5291,1.76,17.3,0.1069,Noida,-0.0
+Beawar,Rajasthan,semi-arid,0.1515,23.7,26992.3,5513.0,0.0,0.3417,scarcity,watch,0.3161,0.5291,1.79,16.2,0.1021,Mathura,0.0
+Ichalkaranji,Maharashtra,semi-arid,0.2876,45.0,52805.7,11752.2,0.0,0.3409,scarcity,watch,0.327,0.5291,2.04,17.5,0.1113,Ratnagiri,-0.0
+Janjgir,Chhattisgarh,tropical-dry,0.0406,5.9,6827.9,1550.4,0.0,0.3408,scarcity,watch,0.2909,0.52,1.83,13.3,0.1135,Bargarh,-0.0
+Nashik,Maharashtra,semi-arid,1.4861,232.5,269829.4,61462.9,0.0,0.3403,scarcity,watch,0.3288,0.5291,1.84,16.9,0.1139,Silvassa,-0.0
+Yamunanagar,Haryana,semi-arid,0.2166,33.9,39520.7,8753.1,0.0,0.3371,scarcity,watch,0.2942,0.5291,1.53,14.6,0.1107,Saharanpur,-0.0
+Kanker,Chhattisgarh,tropical-dry,0.0216,3.2,3639.2,736.8,0.0,0.3368,scarcity,watch,0.2776,0.52,2.07,15.4,0.1012,Ranchi,0.0
+Warangal,Telangana,semi-arid,0.7046,110.2,126776.2,26042.4,0.0,0.3362,scarcity,watch,0.3371,0.5291,2.09,18.6,0.1027,Rajamahendravaram,-0.0
+Ambala,Haryana,semi-arid,0.2079,32.5,38772.6,9239.9,0.0,0.3362,scarcity,watch,0.3101,0.5291,2.14,17.3,0.1192,Basti,-0.0
+Malerkotla,Punjab,semi-arid,0.374,58.5,68064.0,14922.6,0.0,0.3362,scarcity,watch,0.2868,0.5291,1.83,16.8,0.1096,Basti,-0.0
+Rohtak,Haryana,semi-arid,0.3743,58.5,69180.4,16097.5,0.0,0.3358,scarcity,watch,0.3112,0.5291,1.89,16.7,0.1163,Noida,-0.0
+Faridabad,Haryana,semi-arid,1.4047,219.7,256773.3,57263.7,0.0,0.3354,scarcity,watch,0.3329,0.5291,1.52,16.0,0.1115,Noida,-0.0
+Faridkot,Punjab,semi-arid,0.0877,12.7,14828.7,3341.6,0.0,0.3342,scarcity,watch,0.2857,0.5291,2.0,16.4,0.1127,Doda,-0.0
+Palwal,Haryana,semi-arid,0.1319,19.1,22282.2,5048.3,0.0,0.3334,scarcity,watch,0.2784,0.5291,1.97,16.3,0.1133,Noida,-0.0
+Ambarnath,Maharashtra,semi-arid,0.2535,39.6,45934.4,10227.1,0.0,0.3331,scarcity,watch,0.3042,0.5291,1.98,16.5,0.1113,Ulhasnagar,0.0
+Ramagundam,Telangana,semi-arid,0.243,38.0,44019.0,9674.6,0.0,0.3322,scarcity,watch,0.2866,0.5291,1.66,15.3,0.1099,Purnia,-0.0
+Amritsar,Punjab,semi-arid,1.1324,177.2,202979.0,41177.7,0.0,0.3319,scarcity,watch,0.282,0.5291,2.06,19.3,0.1014,Anantnag,-0.0
+Sonipat,Haryana,semi-arid,0.402,62.9,72858.5,15965.4,0.0,0.3311,scarcity,watch,0.3348,0.5291,1.63,15.6,0.1096,Ghaziabad,0.0
+Ratlam,Madhya Pradesh,semi-arid,0.2739,42.8,48914.2,10167.3,0.0,0.3309,scarcity,watch,0.3304,0.5291,1.57,15.2,0.1039,Chamba,0.0
+Nalgonda,Telangana,semi-arid,0.1543,24.1,27531.6,5694.6,0.0,0.3307,scarcity,watch,0.309,0.5291,1.9,16.7,0.1034,Ongole,-0.0
+Pali,Rajasthan,semi-arid,0.23,36.0,41582.5,8887.3,0.0,0.3306,scarcity,watch,0.3003,0.5291,1.78,16.3,0.1069,Chamba,0.0
+Gwalior,Madhya Pradesh,semi-arid,1.0693,167.2,192125.0,40575.0,0.0,0.3299,scarcity,watch,0.3191,0.5291,1.47,15.7,0.1056,Nyoma,-0.0
+Firozpur,Punjab,semi-arid,0.15,23.5,27116.3,5865.3,0.0,0.3299,scarcity,watch,0.3173,0.5291,1.56,14.5,0.1081,Hamirpur,-0.0
+Vidisha,Madhya Pradesh,semi-arid,0.156,24.4,28001.4,6021.9,0.0,0.3296,scarcity,watch,0.3211,0.5291,1.79,15.6,0.1075,Banda,0.0
+Kota,Rajasthan,semi-arid,1.0017,156.7,182061.2,40670.8,0.0,0.3288,scarcity,watch,0.3058,0.5291,1.82,17.0,0.1117,Jhansi,-0.0
+Ranipet,Tamil Nadu,tropical-dry,0.0624,10.0,10709.5,1680.5,0.0,0.3284,scarcity,watch,0.2696,0.52,2.22,17.6,0.0785,Chennai,-0.0
+Kurukshetra,Haryana,semi-arid,0.15,23.5,27255.1,5740.8,0.0,0.328,scarcity,watch,0.2857,0.5291,1.63,15.6,0.1053,Noida,0.0
+Sangrur,Punjab,semi-arid,0.088,12.8,14779.5,3246.7,0.0,0.328,scarcity,watch,0.2959,0.5291,1.62,14.3,0.1098,Basti,-0.0
+Bhusawal,Maharashtra,semi-arid,0.1874,29.3,33693.0,7191.2,0.0,0.3269,scarcity,watch,0.2827,0.5291,1.65,15.3,0.1067,Purnia,-0.0
+Ajmer,Rajasthan,semi-arid,0.5511,86.2,100371.8,21886.7,0.0,0.3268,scarcity,watch,0.312,0.5291,2.04,18.4,0.109,Mathura,-0.0
+Malegaon,Maharashtra,semi-arid,0.4812,75.3,87056.6,19120.9,0.0,0.3256,scarcity,watch,0.3323,0.5291,1.4,14.3,0.1098,Silvassa,0.0
+Muktsar,Punjab,semi-arid,0.15,23.5,27736.2,6137.3,0.0,0.3251,scarcity,watch,0.3368,0.5291,1.92,16.8,0.1106,Kathua,0.0
+Dhule,Maharashtra,semi-arid,0.6556,102.6,118272.3,25429.5,0.0,0.3249,scarcity,watch,0.3042,0.5291,2.03,18.2,0.1075,Navsari,0.0
+Korba,Chhattisgarh,tropical-dry,0.3653,63.1,67746.4,10868.1,0.0,0.3246,scarcity,watch,0.2822,0.52,1.93,17.1,0.0802,Sundargarh,-0.0
+Shivpuri,Madhya Pradesh,semi-arid,0.18,28.2,32811.3,7217.0,0.0,0.3244,scarcity,watch,0.3345,0.5291,1.69,15.5,0.11,Jhansi,0.0
+Nanded,Maharashtra,semi-arid,0.5504,86.1,100997.6,21845.9,0.0,0.3237,scarcity,watch,0.3391,0.5291,2.15,18.8,0.1082,Purnia,0.0
+Gandhinagar,Gujarat,semi-arid,0.1959,30.6,35574.9,7869.7,0.0,0.3231,scarcity,watch,0.3179,0.5291,1.58,14.8,0.1106,Chamba,-0.0
+Burhanpur,Madhya Pradesh,semi-arid,0.2109,33.0,38434.4,8361.5,0.0,0.3227,scarcity,watch,0.3314,0.5291,1.54,14.8,0.1088,Purnia,-0.0
+Bhind,Madhya Pradesh,semi-arid,0.1976,30.9,35835.0,7836.5,0.0,0.3225,scarcity,watch,0.3194,0.5291,1.82,16.2,0.1093,Etawah,0.0
+Rajnandgaon,Chhattisgarh,tropical-dry,0.15,25.9,28586.6,5243.0,0.0,0.3225,scarcity,watch,0.29,0.52,1.79,15.2,0.0917,Rayagada,-0.0
+Tenali,Andhra Pradesh,tropical-dry,0.1649,28.5,30494.2,4710.3,0.0,0.3218,scarcity,watch,0.2522,0.52,1.68,15.1,0.0772,Machilipatnam,-0.0
+Rewari,Haryana,semi-arid,0.143,20.7,23779.3,4863.6,0.0,0.3216,scarcity,watch,0.2714,0.5291,1.67,15.3,0.1023,Noida,0.0
+Chhatarpur,Madhya Pradesh,semi-arid,0.4599,71.9,82763.4,18089.3,0.0,0.3215,scarcity,watch,0.3066,0.5291,1.95,17.1,0.1093,Banda,0.0
+Hassan,Karnataka,tropical-dry,0.1334,21.4,23370.8,4025.2,0.0,0.3215,scarcity,watch,0.2835,0.52,2.29,18.2,0.0861,Kasaragod,0.0
+Amravati,Maharashtra,semi-arid,0.5494,86.0,99631.0,21955.8,0.0,0.3214,scarcity,watch,0.3276,0.5291,1.7,15.9,0.1102,Purnia,-0.0
+Panchkula,Haryana,semi-arid,0.2114,33.0,38802.5,8096.0,0.0,0.3207,scarcity,watch,0.3184,0.5291,1.99,17.2,0.1043,Basti,0.0
+Narmadapuram,Madhya Pradesh,semi-arid,0.1286,18.6,21225.4,4336.6,0.0,0.3205,scarcity,watch,0.2799,0.5291,1.69,15.3,0.1022,Banda,-0.0
+Junagadh,Gujarat,semi-arid,0.3202,50.1,59021.6,12588.9,0.0,0.3201,scarcity,watch,0.3304,0.5291,1.76,16.6,0.1066,Gonda,0.0
+Jalandhar,Punjab,semi-arid,0.8737,136.6,159739.2,35965.9,0.0,0.3199,scarcity,watch,0.3024,0.5291,1.74,16.7,0.1126,Anantnag,0.0
+Pollachi,Tamil Nadu,tropical-dry,0.0902,14.4,15772.3,2769.1,0.0,0.3194,scarcity,watch,0.2909,0.52,2.13,17.0,0.0878,Palakkad,0.0
+Bagalkot,Karnataka,tropical-dry,0.1121,17.9,19540.5,3350.0,0.0,0.3192,scarcity,watch,0.2799,0.52,1.79,14.8,0.0857,Canacona,-0.0
+Palanpur,Gujarat,semi-arid,0.1826,28.6,33586.8,7426.4,0.0,0.3187,scarcity,watch,0.3358,0.5291,1.89,16.7,0.1106,Chamba,-0.0
+Chittoor,Andhra Pradesh,tropical-dry,0.1756,30.4,33258.1,5591.1,0.0,0.3186,scarcity,watch,0.2877,0.52,1.77,16.0,0.0841,Puducherry,-0.0
+Kothagudem,Telangana,semi-arid,0.0798,11.6,13520.5,3023.7,0.0,0.318,scarcity,watch,0.3185,0.5291,2.16,17.2,0.1118,Rajamahendravaram,-0.0
+Kaithal,Haryana,semi-arid,0.1449,21.0,24381.0,5216.4,0.0,0.3179,scarcity,watch,0.3,0.5291,2.24,18.0,0.107,Basti,-0.0
+Mandya,Karnataka,tropical-dry,0.1374,22.0,23301.2,3404.4,0.0,0.3168,scarcity,watch,0.252,0.52,2.08,17.7,0.0731,Mahe,0.0
+Singrauli,Madhya Pradesh,semi-arid,0.2203,34.5,40308.7,8989.6,0.0,0.3159,scarcity,watch,0.3283,0.5291,1.89,16.7,0.1115,Mirzapur,0.0
+Delhi,Delhi,semi-arid,32.226,5600.6,6191720.2,1233336.9,72635.7,0.3149,scarcity,watch,0.3188,0.5291,1.33,17.3,0.1055,Noida,5.9
+Tilda Newra,Chhattisgarh,tropical-dry,0.15,25.9,28197.2,4879.4,0.0,0.3137,scarcity,watch,0.2981,0.52,2.12,17.1,0.0865,Bargarh,0.0
+Tumakuru,Karnataka,tropical-dry,0.5991,103.5,112687.9,19155.0,0.0,0.3135,scarcity,watch,0.31,0.52,1.45,14.7,0.085,Kasaragod,-0.0
+Bengaluru,Karnataka,tropical-dry,15.386,2953.0,3169949.6,567007.7,51805.0,0.3134,scarcity,watch,0.3117,0.52,1.44,16.9,0.0976,Manjeri,9.1
+Mahasamund,Chhattisgarh,tropical-dry,0.1122,17.9,19325.4,3131.3,0.0,0.3131,scarcity,watch,0.296,0.52,2.1,16.7,0.081,Bargarh,-0.0
+Hubballi-Dharwad,Karnataka,tropical-dry,0.9438,163.0,178429.5,31827.3,0.0,0.3102,scarcity,watch,0.3221,0.52,2.03,17.8,0.0892,Curchorem,-0.0
+Kanchipuram,Tamil Nadu,tropical-dry,0.1644,28.4,30967.2,5083.5,0.0,0.3102,scarcity,watch,0.2831,0.52,2.3,19.2,0.0821,Chennai,-0.0
+Pudukkottai,Tamil Nadu,tropical-dry,0.2255,39.0,42720.5,7523.0,0.0,0.3099,scarcity,watch,0.2943,0.52,1.91,16.4,0.088,Cuddalore,0.0
+Proddatur,Andhra Pradesh,tropical-dry,0.164,28.3,29787.8,4631.9,0.0,0.3098,scarcity,watch,0.2877,0.52,2.2,17.3,0.0777,Nellore,0.0
+Panipat,Haryana,semi-arid,1.2028,188.1,216252.7,46342.0,0.0,0.3095,scarcity,watch,0.311,0.5291,1.54,15.9,0.1071,Meerut,-0.0
+Amaravati,Andhra Pradesh,tropical-dry,0.103,16.5,18004.4,3111.5,0.0,0.309,scarcity,watch,0.2837,0.52,2.36,18.3,0.0864,Machilipatnam,0.0
+Sehore,Madhya Pradesh,semi-arid,0.1091,15.8,18197.9,3966.9,0.0,0.3086,scarcity,watch,0.3143,0.5291,2.03,16.6,0.109,Banda,-0.0
+Akola,Maharashtra,semi-arid,0.4258,66.6,76893.2,16919.9,0.0,0.3084,scarcity,watch,0.332,0.5291,1.52,14.8,0.11,Purnia,-0.0
+Sangareddy,Telangana,semi-arid,0.0723,10.5,12299.3,2675.0,0.0,0.308,scarcity,watch,0.2889,0.5291,2.13,17.1,0.1087,Purnia,-0.0
+Chirmiri,Chhattisgarh,tropical-dry,0.15,25.9,28074.2,4549.2,0.0,0.3065,scarcity,watch,0.2843,0.52,1.82,16.2,0.081,Sundargarh,0.0
+Bilaspur,Chhattisgarh,tropical-dry,1.6255,280.8,308112.7,56375.5,0.0,0.3063,scarcity,watch,0.3084,0.52,1.47,14.9,0.0915,Bargarh,-0.0
+Bemetara,Chhattisgarh,tropical-dry,0.15,25.9,28728.7,5252.9,0.0,0.3059,scarcity,watch,0.2855,0.52,1.84,15.9,0.0914,Bargarh,0.0
+Jalgaon,Maharashtra,semi-arid,0.4605,72.1,82709.8,17646.7,0.0,0.3054,scarcity,watch,0.2949,0.5291,1.57,15.4,0.1067,Purnia,0.0
+Vijayapura,Karnataka,tropical-dry,0.3274,56.5,63445.6,12369.6,0.0,0.3034,scarcity,watch,0.2942,0.52,1.49,14.1,0.0975,Canacona,-0.0
+Alwar,Rajasthan,semi-arid,0.3414,53.4,60933.4,12611.7,0.0,0.3027,scarcity,watch,0.2827,0.5291,2.12,18.4,0.1035,Mathura,0.0
+Anantapur,Andhra Pradesh,tropical-dry,0.2672,46.1,50782.2,9472.0,0.0,0.3025,scarcity,watch,0.2804,0.52,1.66,14.5,0.0933,Nellore,0.0
+Morena,Madhya Pradesh,semi-arid,0.2005,31.4,35973.2,7553.1,0.0,0.3025,scarcity,watch,0.2963,0.5291,1.62,14.9,0.105,Nyoma,-0.0
+Erode,Tamil Nadu,tropical-dry,0.1512,26.1,28085.0,4399.2,0.0,0.3008,scarcity,watch,0.3046,0.52,1.65,15.3,0.0783,Palakkad,0.0
+Patan,Gujarat,semi-arid,0.1255,18.2,20837.5,4499.4,0.0,0.2995,scarcity,watch,0.318,0.5291,1.78,15.2,0.108,Chamba,-0.0
+Hindupur,Andhra Pradesh,tropical-dry,0.1517,26.2,28832.7,5150.5,0.0,0.2993,scarcity,watch,0.277,0.52,1.82,15.5,0.0893,Nellore,0.0
+Kawardha,Chhattisgarh,tropical-dry,0.15,25.9,28417.8,5125.9,0.0,0.2981,scarcity,watch,0.2874,0.52,1.91,15.8,0.0902,Jharsuguda,-0.0
+Chikkamagaluru,Karnataka,tropical-dry,0.1184,18.9,19974.0,2907.3,0.0,0.2978,scarcity,watch,0.253,0.52,1.72,15.4,0.0728,Udupi,0.0
+Gadag,Karnataka,tropical-dry,0.1728,29.9,32198.0,5066.7,0.0,0.2959,scarcity,watch,0.2829,0.52,1.88,16.6,0.0787,Curchorem,0.0
+Namakkal,Tamil Nadu,tropical-dry,0.1195,19.2,20901.9,3500.9,0.0,0.2959,scarcity,watch,0.2719,0.52,2.01,16.9,0.0837,Palakkad,0.0
+Vijayawada,Andhra Pradesh,tropical-dry,1.4769,255.1,277314.6,44791.0,0.0,0.2953,scarcity,watch,0.3063,0.52,1.88,18.4,0.0808,Machilipatnam,-0.0
+Shivamogga,Karnataka,tropical-dry,0.3226,55.7,60274.4,10183.4,0.0,0.2941,scarcity,watch,0.3149,0.52,1.89,16.5,0.0845,Udupi,-0.0
+Ambikapur,Chhattisgarh,tropical-dry,0.1211,19.4,20378.2,2926.0,0.0,0.2925,scarcity,watch,0.2725,0.52,1.95,16.6,0.0718,Medininagar,-0.0
+Krishnagiri,Tamil Nadu,tropical-dry,0.0853,13.6,15598.9,3284.1,0.0,0.2914,scarcity,watch,0.2961,0.52,1.81,14.5,0.1053,Cuddalore,-0.0
+Mysuru,Karnataka,tropical-dry,0.9205,159.0,171838.6,29167.9,0.0,0.2901,scarcity,watch,0.272,0.52,1.82,16.7,0.0849,Mahe,-0.0
+Kadapa,Andhra Pradesh,tropical-dry,0.3449,59.6,65479.6,11493.9,0.0,0.2899,scarcity,watch,0.2828,0.52,1.44,14.3,0.0878,Nellore,0.0
+Salem,Tamil Nadu,tropical-dry,0.6932,119.8,128229.4,19283.3,0.0,0.288,scarcity,watch,0.2987,0.52,1.6,16.1,0.0752,Cuddalore,-0.0
+Bhilai,Chhattisgarh,tropical-dry,0.6247,107.9,116773.0,19145.1,0.0,0.2869,scarcity,watch,0.3046,0.52,1.58,15.6,0.082,Bargarh,-0.0
+Dhamtari,Chhattisgarh,tropical-dry,0.1017,16.3,17532.7,2826.9,0.0,0.2866,scarcity,watch,0.2685,0.52,1.9,16.0,0.0806,Bargarh,-0.0
+Madurai,Tamil Nadu,tropical-dry,1.5611,269.7,294793.7,50175.8,0.0,0.2861,scarcity,watch,0.2826,0.52,1.77,17.4,0.0851,Thoothukudi,0.0
+Sivakasi,Tamil Nadu,tropical-dry,0.26,44.9,47915.3,7500.8,0.0,0.2845,scarcity,watch,0.2714,0.52,1.63,15.1,0.0783,Thoothukudi,-0.0
+Belagavi,Karnataka,tropical-dry,0.4882,84.3,89470.0,12891.9,0.0,0.284,scarcity,watch,0.2931,0.52,1.85,17.2,0.072,Mapusa,-0.0
+Dantewada,Chhattisgarh,tropical-dry,0.0136,2.0,2357.0,552.2,0.0,0.2817,scarcity,watch,0.2992,0.52,2.55,16.7,0.1171,Jeypore,0.0
+Raichur,Karnataka,tropical-dry,0.2341,40.4,43593.9,6219.8,0.0,0.2809,scarcity,watch,0.294,0.52,1.96,17.3,0.0713,Ongole,0.0
+Jagdalpur,Chhattisgarh,tropical-dry,0.3255,56.2,62357.4,11620.0,0.0,0.2793,scarcity,watch,0.2926,0.52,1.89,16.3,0.0932,Jeypore,-0.0
+Karur,Tamil Nadu,tropical-dry,0.3947,68.2,73621.4,12336.9,0.0,0.279,scarcity,watch,0.2897,0.52,1.43,14.0,0.0838,Palakkad,0.0
+Kolar,Karnataka,tropical-dry,0.1385,22.1,23924.7,4006.0,0.0,0.2789,scarcity,watch,0.3173,0.52,2.31,18.4,0.0837,Puducherry,-0.0
+Raipur,Chhattisgarh,tropical-dry,1.0101,174.5,191153.8,34121.2,0.0,0.276,scarcity,watch,0.3157,0.52,1.96,17.6,0.0893,Bargarh,0.0
+Kurnool,Andhra Pradesh,tropical-dry,0.4576,79.1,83880.5,12223.8,0.0,0.2733,scarcity,watch,0.2944,0.52,2.08,18.6,0.0729,Ongole,-0.0
+Davanagere,Karnataka,tropical-dry,0.4351,75.1,80144.8,11856.4,0.0,0.2732,scarcity,stable,0.2424,0.52,1.74,16.3,0.074,Udupi,-0.0
+Mungeli,Chhattisgarh,tropical-dry,0.1084,17.3,18907.0,3210.7,0.0,0.2729,scarcity,watch,0.3047,0.52,2.18,17.8,0.0849,Bargarh,0.0
+Hosapete,Karnataka,tropical-dry,0.2062,35.6,37382.3,5164.3,0.0,0.2722,scarcity,watch,0.2551,0.52,1.62,15.0,0.0691,Curchorem,0.0
+Hosur,Tamil Nadu,tropical-dry,0.2295,39.6,43561.2,7675.6,0.0,0.2721,scarcity,watch,0.2996,0.52,2.24,18.5,0.0881,Cuddalore,0.0
+Vellore,Tamil Nadu,tropical-dry,0.4847,83.7,90511.8,14503.8,0.0,0.2715,scarcity,watch,0.2927,0.52,1.59,15.6,0.0801,Chennai,-0.0
+Dindigul,Tamil Nadu,tropical-dry,0.2073,35.8,37844.3,5642.2,0.0,0.271,scarcity,watch,0.2706,0.52,1.93,16.8,0.0745,Idukki,-0.0
+Eluru,Andhra Pradesh,tropical-dry,0.2038,35.2,38185.9,6442.5,0.0,0.2694,scarcity,watch,0.3102,0.52,1.9,16.4,0.0844,Machilipatnam,0.0
+Balod,Chhattisgarh,tropical-dry,0.15,25.9,27356.7,4013.0,0.0,0.2691,scarcity,watch,0.2587,0.52,1.79,15.9,0.0733,Sundargarh,-0.0
+Coimbatore,Tamil Nadu,tropical-dry,0.9598,165.8,178528.9,28562.7,82.8,0.2689,scarcity,watch,0.2654,0.52,1.32,14.2,0.0802,Palakkad,0.3
+Raigarh,Chhattisgarh,tropical-dry,0.1354,21.6,23267.9,3821.5,0.0,0.2675,scarcity,watch,0.264,0.52,2.26,18.1,0.0821,Jharsuguda,-0.0
+Guntur,Andhra Pradesh,tropical-dry,0.6701,115.7,123813.5,18793.2,243.5,0.2643,scarcity,watch,0.2911,0.52,1.43,15.5,0.0769,Machilipatnam,1.3
+Tiruvannamalai,Tamil Nadu,tropical-dry,0.1723,29.8,32610.8,5540.5,0.0,0.2624,scarcity,watch,0.29,0.52,1.92,16.8,0.0849,Cuddalore,0.0
+Tiruppur,Tamil Nadu,tropical-dry,0.8778,151.6,161372.7,25008.4,363.7,0.2582,scarcity,watch,0.2909,0.52,1.73,16.8,0.0786,Palakkad,1.5
+Kalaburagi,Karnataka,tropical-dry,0.5336,92.2,97072.2,13921.1,492.8,0.2444,scarcity,watch,0.2708,0.52,1.57,16.1,0.0742,Purnia,3.5
+Tirupati,Andhra Pradesh,tropical-dry,0.2875,49.7,52705.9,7820.3,167.5,0.2388,scarcity,watch,0.258,0.52,2.23,19.2,0.0758,Puducherry,2.1
+Ballari,Karnataka,tropical-dry,0.4104,70.9,77296.0,13296.4,207.5,0.2349,scarcity,watch,0.2646,0.52,1.51,14.9,0.0874,Karwar,1.6
+Phek,Nagaland,humid-subtropical,0.0104,1.9,2019.6,320.8,0.0,0.22,scarcity,stable,0.2323,0.4125,2.66,27.7,0.0794,Longleng,-0.0
+Giridih,Jharkhand,humid-subtropical,0.01,1.9,2036.0,332.5,0.0,0.2063,scarcity,stable,0.2179,0.4125,2.39,26.1,0.0816,Dhanbad,-0.0
+Udaipur (Tripura),Tripura,humid-subtropical,0.01,1.9,1993.2,295.6,0.0,0.1981,scarcity,stable,0.2222,0.4125,2.39,26.0,0.0741,Bishalgarh,-0.0
+Prayagraj,Uttar Pradesh,humid-subtropical,0.01,1.9,1959.1,253.3,0.0,0.1955,scarcity,stable,0.1965,0.4125,2.05,25.3,0.0646,Mirzapur,-0.0
+Khowai,Tripura,humid-subtropical,0.0214,4.0,3731.0,221.8,83.6,0.1822,balanced,stable,0.1716,0.4125,2.46,31.3,0.0409,Teliamura,37.7
+Belonia,Tripura,humid-subtropical,0.0212,4.0,3617.1,150.6,107.9,0.177,balanced,stable,0.1556,0.4125,1.9,28.0,0.0357,Bishalgarh,71.7
+Baghmara,Meghalaya,humid-subtropical,0.0114,2.1,2130.2,253.0,0.0,0.1729,scarcity,stable,0.1929,0.4125,2.21,26.4,0.0594,Padum,-0.0
+Firozabad,Uttar Pradesh,humid-subtropical,0.01,1.9,1936.5,209.6,0.0,0.1666,scarcity,stable,0.2126,0.4125,2.42,28.6,0.0541,Agra,-0.0
+Koderma,Jharkhand,humid-subtropical,0.0228,4.3,3939.8,157.4,116.8,0.1619,balanced,stable,0.1748,0.4125,2.49,33.1,0.0348,Hazaribagh,74.3
+Muzaffarnagar,Uttar Pradesh,humid-subtropical,0.0108,2.0,2015.0,222.2,0.0,0.1596,scarcity,stable,0.1933,0.4125,2.1,26.0,0.0551,Bijnor,0.0
+Azamgarh,Uttar Pradesh,humid-subtropical,0.01,1.9,1846.0,153.1,0.0,0.1534,scarcity,stable,0.1743,0.4125,2.1,26.5,0.0415,Jaunpur,-0.0
+Chaibasa,Jharkhand,humid-subtropical,0.01,1.9,1862.1,166.2,0.0,0.1534,scarcity,stable,0.1863,0.4125,2.63,29.4,0.0446,Jamshedpur,-0.0
+Ramgarh,Jharkhand,humid-subtropical,0.01,1.9,1873.0,179.5,0.0,0.151,scarcity,stable,0.1877,0.4125,2.6,29.2,0.0479,Sasaram,0.0
+Greater Noida,Uttar Pradesh,humid-subtropical,0.01,1.9,1851.0,130.2,0.0,0.139,scarcity,stable,0.1605,0.4125,1.96,26.8,0.0352,Noida,-0.0
+Kailashahar,Tripura,humid-subtropical,0.0234,4.4,3894.9,189.2,261.3,0.1305,balanced,stable,0.1943,0.4125,2.22,31.8,0.0578,Ukhrul,100.0
+Nongstoin,Meghalaya,humid-subtropical,0.0287,5.4,4614.5,124.7,370.8,0.129,abundance,stable,0.17,0.4125,2.21,33.0,0.0537,Shillong,100.0
+Basti,Uttar Pradesh,humid-subtropical,0.027,5.1,4411.6,145.2,339.4,0.1199,balanced,stable,0.1581,0.4125,2.44,34.2,0.0549,Solan,100.0
+Cuncolim,Goa,coastal,0.0209,4.2,3450.4,81.6,376.8,0.1104,abundance,stable,0.1434,0.4403,1.93,28.2,0.0664,Curchorem,100.0
+Tezu,Arunachal Pradesh,humid-subtropical,0.0144,2.8,2575.5,126.1,30.2,0.1093,balanced,stable,0.1607,0.4125,2.41,29.5,0.0303,Aalo,24.0
+Godda,Jharkhand,humid-subtropical,0.0488,9.2,7540.4,95.5,873.8,0.1091,abundance,stable,0.1888,0.4125,2.29,35.4,0.0643,Dumka,100.0
+Pasighat,Arunachal Pradesh,humid-subtropical,0.0247,4.7,3952.5,87.6,380.1,0.106,abundance,stable,0.1799,0.4125,2.57,35.9,0.0592,Aalo,100.0
+Agra,Uttar Pradesh,humid-subtropical,1.7603,390.2,301658.4,6488.3,55385.6,0.1051,abundance,stable,0.1959,0.4125,1.67,36.1,0.1026,Mathura,100.0
+Banda,Uttar Pradesh,humid-subtropical,0.0346,6.6,5360.0,62.8,586.7,0.1009,abundance,stable,0.1665,0.4125,2.41,35.2,0.0606,Jhansi,100.0
+Purnia,Bihar,humid-subtropical,0.0364,6.9,5856.9,217.8,570.9,0.0992,abundance,stable,0.1692,0.4125,1.77,30.2,0.0673,Ulhasnagar,100.0
+Chhapra,Bihar,humid-subtropical,0.0132,2.5,2379.4,150.1,18.9,0.0985,scarcity,stable,0.1512,0.4125,1.87,26.5,0.0355,Sitamarhi,12.6
+Thoubal,Manipur,humid-subtropical,0.0459,8.7,7304.1,164.7,681.9,0.0967,abundance,stable,0.1923,0.4125,2.42,35.3,0.058,Imphal,100.0
+Dumka,Jharkhand,humid-subtropical,0.0476,9.0,7409.2,126.8,843.7,0.0939,abundance,stable,0.1703,0.4125,2.28,35.3,0.0655,Godda,100.0
+Bishalgarh,Tripura,humid-subtropical,0.15,33.3,26395.4,534.8,3646.5,0.0913,abundance,stable,0.1493,0.4125,1.75,31.8,0.0792,Ambassa,100.0
+Sahibganj,Jharkhand,humid-subtropical,0.112,23.0,18547.7,188.9,2306.7,0.0882,abundance,stable,0.1912,0.4125,1.74,32.5,0.0673,Katihar,100.0
+Kakching,Manipur,humid-subtropical,0.0163,3.1,2901.1,124.2,25.5,0.0878,balanced,stable,0.1656,0.4125,2.28,29.8,0.0258,Thoubal,20.5
+Mairang,Meghalaya,humid-subtropical,0.15,33.3,26468.4,369.5,3668.0,0.087,abundance,stable,0.1522,0.4125,2.23,36.4,0.0763,Williamnagar,100.0
+Nagapattinam,Tamil Nadu,coastal,0.01,2.1,1895.1,56.1,49.5,0.0839,balanced,stable,0.14,0.4403,1.9,25.3,0.0279,Cuddalore,88.2
+Dharmanagar,Tripura,humid-subtropical,0.0459,8.7,7255.4,160.3,681.8,0.0833,abundance,stable,0.1792,0.4125,2.2,33.4,0.058,Ukhrul,100.0
+Tamenglong,Manipur,humid-subtropical,0.15,33.3,26094.9,304.1,3976.1,0.0829,abundance,stable,0.1507,0.4125,2.21,36.7,0.082,Baharampur,100.0
+Ghaziabad,Uttar Pradesh,humid-subtropical,2.3758,585.3,452024.1,9757.6,87020.3,0.0825,abundance,stable,0.191,0.4125,1.5,34.9,0.107,Noida,100.0
+Goalpara,Assam,humid-subtropical,0.0534,11.0,8875.4,84.4,1056.2,0.0824,abundance,stable,0.1485,0.4125,2.06,33.3,0.0643,Bongaigaon,100.0
+Bongaigaon,Assam,humid-subtropical,0.0673,13.8,10939.5,138.8,1513.0,0.0734,abundance,stable,0.1481,0.4125,2.09,34.4,0.0755,Goalpara,100.0
+Ambassa,Tripura,humid-subtropical,0.15,33.3,26526.3,296.5,3373.9,0.073,abundance,stable,0.1651,0.4125,1.6,30.9,0.0692,Bishalgarh,100.0
+Mandi,Himachal Pradesh,temperate-highland,0.0264,4.4,3486.7,27.8,512.2,0.0725,abundance,stable,0.1278,0.4014,0.92,38.6,0.0774,Sundernagar,100.0
+Simdega,Jharkhand,humid-subtropical,0.0801,16.4,13166.4,183.1,1683.2,0.0718,abundance,stable,0.1696,0.4125,1.92,33.1,0.0709,Gumla,100.0
+Jowai,Meghalaya,humid-subtropical,0.15,33.3,26494.9,310.7,3486.1,0.0709,abundance,stable,0.2008,0.4125,2.28,36.3,0.0717,Cooch Behar,100.0
+Chatra,Jharkhand,humid-subtropical,0.05,9.4,7626.1,119.6,970.4,0.0708,abundance,stable,0.1836,0.4125,2.15,34.0,0.0715,Hazaribagh,100.0
+Tinsukia,Assam,humid-subtropical,0.0995,20.4,16072.1,118.4,2398.2,0.0704,abundance,stable,0.136,0.4125,1.68,32.8,0.0783,Dibrugarh,100.0
+Vapi,Gujarat,coastal,0.01,2.1,1909.2,69.9,34.1,0.0701,balanced,stable,0.1605,0.4403,2.5,28.6,0.0272,Daman,48.8
+Williamnagar,Meghalaya,humid-subtropical,0.15,33.3,26217.1,321.2,3744.4,0.0675,abundance,stable,0.1666,0.4125,2.25,36.4,0.0775,Guwahati,100.0
+Lucknow,Uttar Pradesh,humid-subtropical,3.382,833.1,656589.3,9366.3,97401.8,0.0674,abundance,stable,0.1884,0.4125,1.67,35.5,0.0813,Unnao,100.0
+Phusro,Jharkhand,humid-subtropical,0.0892,18.3,14581.5,172.4,2134.1,0.0662,abundance,stable,0.1654,0.4125,1.87,33.9,0.0791,Bokaro Steel City,100.0
+Dhemaji,Assam,humid-subtropical,0.0157,3.0,2643.8,49.3,91.1,0.0662,balanced,stable,0.1534,0.4125,2.37,31.9,0.0265,Namsai,100.0
+Senapati,Manipur,humid-subtropical,0.15,33.3,26356.2,206.0,3653.3,0.0651,abundance,stable,0.1634,0.4125,2.17,35.8,0.0732,Champhai,100.0
+Kavaratti,Lakshadweep,coastal,0.0115,2.3,2018.4,34.8,62.7,0.0649,balanced,stable,0.1528,0.4403,2.51,29.5,0.0242,Agatti,100.0
+Khawzawl,Mizoram,humid-subtropical,0.15,33.3,26122.1,361.4,4079.4,0.0646,abundance,stable,0.178,0.4125,2.01,35.3,0.085,Serchhip,100.0
+Sivasagar,Assam,humid-subtropical,0.15,33.3,26514.8,220.7,3342.9,0.0641,abundance,stable,0.1727,0.4125,2.23,35.8,0.0672,Itanagar,100.0
+Itanagar,Arunachal Pradesh,humid-subtropical,0.0595,12.2,9940.4,171.2,1177.8,0.0639,abundance,stable,0.1987,0.4125,2.22,34.9,0.0679,Sivasagar,100.0
+Ranchi,Jharkhand,humid-subtropical,1.0734,238.0,185586.1,1617.6,29422.3,0.0639,abundance,stable,0.1781,0.4125,1.72,35.5,0.0836,Lohardaga,100.0
+Saiha,Mizoram,humid-subtropical,0.0355,6.7,5538.4,101.0,627.4,0.0632,abundance,stable,0.146,0.4125,2.19,34.7,0.0658,Lawngtlai,100.0
+Srinagar (Uttarakhand),Uttarakhand,temperate-highland,0.01,1.7,1516.4,33.8,50.1,0.0625,balanced,stable,0.1026,0.4014,0.69,31.7,0.0277,Tehri,100.0
+Kishanganj,Bihar,humid-subtropical,0.1058,21.7,17270.2,231.6,2411.0,0.0612,abundance,stable,0.1484,0.4125,1.82,33.2,0.0765,Singtam,100.0
+Roing,Arunachal Pradesh,humid-subtropical,0.15,33.3,26101.8,282.7,3847.8,0.0611,abundance,stable,0.165,0.4125,1.76,32.9,0.0791,Namsai,100.0
+Diphu,Assam,humid-subtropical,0.0618,12.7,10324.3,187.0,1230.5,0.0608,abundance,stable,0.1576,0.4125,1.73,31.2,0.0686,Dimapur,100.0
+Begusarai,Bihar,humid-subtropical,0.252,55.8,44322.2,363.4,5524.6,0.0604,abundance,stable,0.1646,0.4125,2.24,36.0,0.0664,Munger,100.0
+Mirzapur,Uttar Pradesh,humid-subtropical,2.497,615.0,469163.7,3622.7,90788.0,0.0604,abundance,stable,0.1777,0.4125,1.44,36.0,0.1006,Varanasi,100.0
+Haflong,Assam,humid-subtropical,0.15,33.3,26559.0,354.3,3668.7,0.0604,abundance,stable,0.147,0.4125,2.25,36.9,0.0757,Sivasagar,100.0
+Resubelpara,Meghalaya,humid-subtropical,0.15,33.3,26681.0,334.3,3123.8,0.0602,abundance,stable,0.1622,0.4125,1.94,32.8,0.0648,Khliehriat,100.0
+Navi Mumbai,Maharashtra,coastal,0.01,2.1,1843.7,27.1,72.3,0.0589,balanced,stable,0.14,0.4403,2.05,27.3,0.0269,Panvel,100.0
+Moreh,Manipur,humid-subtropical,0.15,33.3,25755.6,348.4,4323.1,0.0581,abundance,stable,0.1333,0.4125,1.86,34.3,0.0907,Jiribam,100.0
+Silvassa,Dadra and Nagar Haveli and Daman and Diu,coastal,0.0219,4.5,3659.3,51.3,417.2,0.057,abundance,stable,0.1313,0.4403,1.97,29.1,0.064,Daman,100.0
+Bokaro Steel City,Jharkhand,humid-subtropical,0.0481,9.1,7413.7,150.5,881.3,0.0561,abundance,stable,0.1762,0.4125,2.34,35.4,0.0696,Phusro,100.0
+Jaunpur,Uttar Pradesh,humid-subtropical,0.1804,39.9,32026.0,466.7,4155.2,0.0554,abundance,stable,0.1647,0.4125,2.22,36.0,0.0722,Varanasi,100.0
+Kanpur,Uttar Pradesh,humid-subtropical,0.2438,54.0,42674.8,553.5,6273.5,0.0544,abundance,stable,0.1487,0.4125,1.92,35.0,0.08,Unnao,100.0
+Patna,Bihar,humid-subtropical,1.6842,373.4,290743.1,4677.5,49471.7,0.0542,abundance,stable,0.1898,0.4125,1.85,37.0,0.0931,Hajipur,100.0
+Gonda,Uttar Pradesh,humid-subtropical,0.1734,38.5,30130.5,343.1,4878.0,0.0538,abundance,stable,0.1615,0.4125,2.29,38.5,0.0866,Jamnagar,100.0
+Vatakara,Kerala,coastal,0.01,2.1,1896.8,50.0,52.0,0.0531,balanced,stable,0.1448,0.4403,2.59,30.1,0.0269,Mahe,100.0
+Etawah,Uttar Pradesh,humid-subtropical,0.2568,56.9,45518.5,540.4,5941.7,0.052,abundance,stable,0.1609,0.4125,2.16,36.3,0.0712,Nyoma,100.0
+Saharanpur,Uttar Pradesh,humid-subtropical,0.7055,156.4,123660.6,1042.3,17656.9,0.0516,abundance,stable,0.1383,0.4125,1.95,36.3,0.0756,Paonta Sahib,100.0
+Kiphire,Nagaland,humid-subtropical,0.15,33.3,26270.3,319.3,4135.5,0.0512,abundance,stable,0.1684,0.4125,2.09,35.9,0.0848,Tuensang,100.0
+Dehri,Bihar,humid-subtropical,0.1372,28.2,22618.4,288.5,3120.6,0.0511,abundance,stable,0.165,0.4125,2.01,35.3,0.0754,Sasaram,100.0
+Mon,Nagaland,humid-subtropical,0.15,33.3,26298.3,351.0,3999.4,0.0503,abundance,stable,0.1819,0.4125,2.34,37.5,0.0827,Wokha,100.0
+Khliehriat,Meghalaya,humid-subtropical,0.15,33.3,26003.1,285.5,4109.2,0.0503,abundance,stable,0.1848,0.4125,1.65,32.8,0.0845,Resubelpara,100.0
+Jorhat,Assam,humid-subtropical,0.1532,34.0,26962.0,431.7,3808.0,0.0502,abundance,stable,0.127,0.4125,2.0,34.5,0.0786,Sivasagar,100.0
+Sitapur,Uttar Pradesh,humid-subtropical,0.1774,39.3,31176.0,365.8,4430.1,0.05,abundance,stable,0.1836,0.4125,1.56,31.8,0.0769,Shahjahanpur,100.0
+Gumla,Jharkhand,humid-subtropical,0.0801,16.4,13379.2,204.3,1585.1,0.0493,abundance,stable,0.1552,0.4125,2.32,36.2,0.0669,Lohardaga,100.0
+Lawngtlai,Mizoram,humid-subtropical,0.15,33.3,26300.5,347.7,4000.6,0.0487,abundance,stable,0.1676,0.4125,1.61,32.3,0.0827,Kolasib,100.0
+Meerut,Uttar Pradesh,humid-subtropical,1.3054,289.5,229487.4,1558.4,30102.3,0.0478,abundance,stable,0.189,0.4125,1.96,36.3,0.069,Hapur,100.0
+Medininagar,Jharkhand,humid-subtropical,0.1589,35.3,28228.4,546.2,3731.2,0.0478,abundance,stable,0.1527,0.4125,1.96,33.6,0.0758,Chatra,100.0
+Rampur,Uttar Pradesh,humid-subtropical,0.3252,72.2,55879.1,296.6,9072.6,0.0473,abundance,stable,0.1207,0.4125,1.48,32.5,0.0838,Moradabad,100.0
+Churachandpur,Manipur,humid-subtropical,0.15,33.3,26189.8,232.7,4079.5,0.0472,abundance,stable,0.183,0.4125,2.17,37.1,0.0823,Malda,100.0
+Jamshedpur,Jharkhand,humid-subtropical,1.558,345.4,270480.2,2654.7,40685.8,0.0469,abundance,stable,0.1695,0.4125,1.29,31.9,0.0801,Purulia,100.0
+Deoghar,Jharkhand,humid-subtropical,0.2031,45.0,35346.4,252.8,5361.4,0.0464,abundance,stable,0.1379,0.4125,1.53,32.4,0.0794,Jamtara,100.0
+Bhagalpur,Bihar,humid-subtropical,0.4102,90.9,71713.9,333.0,10738.1,0.0442,abundance,stable,0.1614,0.4125,1.55,33.4,0.0772,Godda,100.0
+Bilaspur (Himachal Pradesh),Himachal Pradesh,temperate-highland,0.01,1.7,1493.7,20.5,72.4,0.044,balanced,stable,0.0936,0.4014,0.61,32.4,0.0311,Sundernagar,100.0
+Munger,Bihar,humid-subtropical,0.2131,47.3,37902.1,342.4,4963.0,0.0438,abundance,stable,0.1233,0.4125,1.64,32.6,0.07,Begusarai,100.0
+Hazaribagh,Jharkhand,humid-subtropical,0.1425,29.2,23456.4,165.5,3129.3,0.0437,abundance,stable,0.1523,0.4125,1.87,33.9,0.0702,Chatra,100.0
+Kendujhar,Odisha,tropical-wet,0.01,2.1,1824.1,27.7,83.1,0.0433,balanced,stable,0.1471,0.4243,2.62,32.6,0.0304,Paradip,100.0
+Dimapur,Nagaland,humid-subtropical,0.1228,25.2,19731.7,237.6,3100.2,0.0431,abundance,stable,0.152,0.4125,1.71,32.9,0.0846,Diphu,100.0
+Udupi,Karnataka,coastal,0.01,2.1,1822.5,22.8,78.9,0.0422,balanced,stable,0.1604,0.4403,2.36,29.3,0.0279,Mangaluru,100.0
+Orai,Uttar Pradesh,humid-subtropical,0.1906,42.3,33420.8,164.1,4597.5,0.042,abundance,stable,0.142,0.4125,1.77,33.4,0.0712,Etawah,100.0
+Dibrugarh,Assam,humid-subtropical,0.154,34.1,26578.7,147.0,4329.9,0.0415,abundance,stable,0.1535,0.4125,1.58,33.1,0.0842,Naharlagun,100.0
+Hajipur,Bihar,humid-subtropical,0.1477,30.3,23964.6,271.6,3601.3,0.0401,abundance,stable,0.1687,0.4125,1.88,34.7,0.0808,Patna,100.0
+Amroha,Uttar Pradesh,humid-subtropical,0.1985,44.0,35066.4,191.3,5120.9,0.0394,abundance,stable,0.1642,0.4125,2.2,37.4,0.0757,Moradabad,100.0
+Nagaon,Assam,humid-subtropical,0.15,33.3,26012.7,256.0,4166.7,0.0381,abundance,stable,0.1887,0.4125,2.06,36.3,0.085,Diphu,100.0
+Ballia,Uttar Pradesh,humid-subtropical,0.1044,21.4,16905.3,151.1,2629.9,0.0376,abundance,stable,0.1266,0.4125,1.83,33.9,0.0823,Arrah,100.0
+Hamirpur,Himachal Pradesh,temperate-highland,0.01,1.7,1480.5,17.6,69.8,0.0367,balanced,stable,0.128,0.4014,1.13,35.5,0.0295,Sundernagar,100.0
+Guwahati,Assam,humid-subtropical,1.1163,247.5,194722.3,1408.1,28198.4,0.0364,abundance,stable,0.1631,0.4125,2.08,37.7,0.076,Williamnagar,100.0
+Jhansi,Uttar Pradesh,humid-subtropical,0.507,112.4,87680.1,295.9,14528.9,0.0364,abundance,stable,0.1269,0.4125,1.56,34.0,0.0845,Orai,100.0
+Curchorem,Goa,coastal,0.0227,4.7,3689.1,31.6,567.8,0.0362,abundance,stable,0.158,0.4403,2.47,34.6,0.0812,Cuncolim,100.0
+Kolasib,Mizoram,humid-subtropical,0.15,33.3,26274.0,269.7,3919.1,0.0362,abundance,stable,0.1526,0.4125,1.93,35.0,0.0797,Lawngtlai,100.0
+Padum,Ladakh,temperate-highland,0.0108,1.8,1560.0,17.7,85.6,0.0361,balanced,stable,0.1022,0.4014,1.17,36.5,0.0331,Darbhanga,100.0
+Shahjahanpur,Uttar Pradesh,humid-subtropical,0.3461,76.7,60407.8,233.5,9177.8,0.0357,abundance,stable,0.1664,0.4125,1.53,33.5,0.0779,Farrukhabad,100.0
+Longleng,Nagaland,humid-subtropical,0.15,33.3,26392.0,268.0,3639.5,0.0352,abundance,stable,0.1888,0.4125,1.99,34.5,0.074,Kohima,100.0
+Ponda,Goa,coastal,0.0234,4.8,3737.5,34.2,593.7,0.035,abundance,stable,0.1502,0.4403,2.38,33.5,0.084,Mapusa,100.0
+Arrah,Bihar,humid-subtropical,0.2614,58.0,45948.0,422.3,6610.5,0.0342,abundance,stable,0.1718,0.4125,2.12,36.9,0.0765,Patna,100.0
+Namsai,Arunachal Pradesh,humid-subtropical,0.15,33.3,26106.5,159.3,4352.5,0.0339,abundance,stable,0.1509,0.4125,2.13,38.2,0.0864,Dhemaji,100.0
+Idukki,Kerala,tropical-wet,0.0217,4.5,3417.4,20.3,662.8,0.0338,abundance,stable,0.1384,0.4243,1.93,33.1,0.0999,Kottayam,100.0
+Jharsuguda,Odisha,tropical-wet,0.01,2.1,1805.2,25.6,79.3,0.0337,balanced,stable,0.1327,0.4243,2.24,29.5,0.0291,Sundargarh,100.0
+Silchar,Assam,humid-subtropical,0.1728,38.4,30150.5,217.7,4485.1,0.0335,abundance,stable,0.1422,0.4125,2.32,37.9,0.078,Karimganj,100.0
+Kishtwar,Jammu and Kashmir,temperate-highland,0.01,1.7,1497.6,14.0,72.7,0.0322,balanced,stable,0.1173,0.4014,0.82,34.5,0.0289,Udhampur,100.0
+Bihar Sharif,Bihar,humid-subtropical,0.2973,65.9,52098.5,212.3,7100.8,0.0321,abundance,stable,0.1382,0.4125,2.15,36.8,0.0702,Patna,100.0
+Jamtara,Jharkhand,humid-subtropical,0.0904,18.5,14590.7,109.8,2222.8,0.0309,abundance,stable,0.1334,0.4125,1.86,34.1,0.0799,Asansol,100.0
+Varanasi,Uttar Pradesh,humid-subtropical,1.1985,265.7,204996.2,925.9,33013.8,0.0297,abundance,stable,0.1519,0.4125,1.47,33.5,0.0828,Mirzapur,100.0
+Karimganj,Assam,humid-subtropical,0.0569,11.7,9217.5,67.1,1362.1,0.0295,abundance,stable,0.1665,0.4125,1.77,32.4,0.0775,Silchar,100.0
+Motihari,Bihar,humid-subtropical,0.4262,94.5,74306.4,198.6,11405.2,0.0291,abundance,stable,0.1543,0.4125,1.8,35.5,0.0781,Bettiah,100.0
+Mathura,Uttar Pradesh,humid-subtropical,0.4419,98.0,76318.1,265.5,12843.1,0.029,abundance,stable,0.15,0.4125,1.54,33.9,0.0859,Agra,100.0
+Moradabad,Uttar Pradesh,humid-subtropical,0.8898,197.3,153563.5,440.7,25157.5,0.0287,abundance,stable,0.1795,0.4125,1.76,35.9,0.0833,Rampur,100.0
+Aligarh,Uttar Pradesh,humid-subtropical,1.1312,250.8,196224.5,1228.5,28943.3,0.0285,abundance,stable,0.1794,0.4125,1.62,34.2,0.0769,Mathura,100.0
+Imphal,Manipur,humid-subtropical,0.265,58.7,46320.5,363.1,6755.3,0.0284,abundance,stable,0.1797,0.4125,1.67,33.5,0.0768,Thoubal,100.0
+Barpeta,Assam,humid-subtropical,0.0426,8.1,6471.7,71.2,879.8,0.0283,abundance,stable,0.1579,0.4125,2.27,35.9,0.0735,Goalpara,100.0
+Mamit,Mizoram,humid-subtropical,0.15,33.3,25663.3,259.7,4556.5,0.028,abundance,stable,0.1793,0.4125,1.56,32.7,0.0938,Serchhip,100.0
+Ayodhya,Uttar Pradesh,humid-subtropical,0.1652,36.7,28678.8,252.9,4714.2,0.0277,abundance,stable,0.1622,0.4125,1.97,35.3,0.0866,Rae Bareli,100.0
+Ukhrul,Manipur,humid-subtropical,0.15,33.3,25728.2,156.2,4111.6,0.0263,abundance,stable,0.1542,0.4125,1.55,31.8,0.0829,Dharmanagar,100.0
+Bijnor,Uttar Pradesh,humid-subtropical,0.1154,23.7,18806.4,132.2,2840.6,0.0256,abundance,stable,0.1384,0.4125,2.3,38.1,0.079,Chamoli,100.0
+Gaya,Bihar,humid-subtropical,0.4741,105.1,83687.8,776.2,11405.2,0.025,abundance,stable,0.1462,0.4125,2.16,37.4,0.0728,Chatra,100.0
+Chennai,Tamil Nadu,coastal,12.395,3296.8,2350442.0,2889.9,616271.1,0.0244,severe-abundance,stable,0.17,0.4403,1.14,33.8,0.1317,Manali,100.0
+Samba,Jammu and Kashmir,temperate-highland,0.021,3.5,2708.2,12.8,522.8,0.0239,abundance,stable,0.1413,0.4014,0.9,40.7,0.0989,Poonch,100.0
+Hapur,Uttar Pradesh,humid-subtropical,0.317,70.2,54303.6,172.6,8971.8,0.0238,abundance,stable,0.1695,0.4125,2.17,38.1,0.0842,Meerut,100.0
+Aalo,Arunachal Pradesh,humid-subtropical,0.15,33.3,25869.4,106.9,4354.1,0.0234,abundance,stable,0.1278,0.4125,1.73,34.4,0.0862,Bomdila,100.0
+Bettiah,Bihar,humid-subtropical,0.4145,91.9,71850.8,291.6,10911.8,0.0233,abundance,stable,0.1458,0.4125,1.77,34.9,0.078,Motihari,100.0
+Navsari,Gujarat,coastal,0.01,2.1,1732.2,9.6,133.0,0.0226,abundance,stable,0.1363,0.4403,1.95,26.4,0.0412,Valsad,100.0
+Katihar,Bihar,humid-subtropical,0.2406,53.3,41603.6,249.8,6429.7,0.0221,abundance,stable,0.1656,0.4125,1.89,35.2,0.0803,Sahibganj,100.0
+Lohardaga,Jharkhand,humid-subtropical,0.0574,11.8,9225.7,57.5,1339.7,0.0221,abundance,stable,0.1783,0.4125,1.97,33.4,0.0757,Gumla,100.0
+Sambhal,Uttar Pradesh,humid-subtropical,0.2208,48.9,38588.7,267.2,5219.0,0.0214,abundance,stable,0.1601,0.4125,1.93,34.3,0.0711,Moradabad,100.0
+Noida,Uttar Pradesh,humid-subtropical,0.6373,141.2,108750.9,200.5,17696.6,0.021,abundance,stable,0.1551,0.4125,1.83,35.9,0.0823,Ghaziabad,100.0
+Tezpur,Assam,humid-subtropical,0.1025,21.1,16473.3,106.2,2498.3,0.0204,abundance,stable,0.1878,0.4125,2.17,36.2,0.0791,Haflong,100.0
+Gorakhpur,Uttar Pradesh,humid-subtropical,0.6734,149.3,116821.1,95.7,17137.0,0.0204,abundance,stable,0.1332,0.4125,1.6,34.0,0.0738,Bettiah,100.0
+Muzaffarpur,Bihar,humid-subtropical,0.3332,73.8,57139.9,140.2,9228.4,0.0198,abundance,stable,0.151,0.4125,1.5,32.3,0.082,Deoria,100.0
+Darbhanga,Bihar,humid-subtropical,0.296,65.6,50597.4,80.9,8189.0,0.0183,abundance,stable,0.1312,0.4125,1.92,35.9,0.0817,Samastipur,100.0
+Jiribam,Manipur,humid-subtropical,0.15,33.3,25906.7,141.4,3971.6,0.0159,abundance,stable,0.1379,0.4125,1.7,32.8,0.0794,Moreh,100.0
+Unnao,Uttar Pradesh,humid-subtropical,0.1777,39.4,30615.1,104.9,4811.9,0.0128,abundance,stable,0.1675,0.4125,1.65,33.2,0.0803,Kanpur,100.0
+Sabroom,Tripura,humid-subtropical,0.15,33.3,25998.5,83.6,4015.1,0.0124,abundance,stable,0.1526,0.4125,1.81,34.5,0.0788,Teliamura,100.0
+North Lakhimpur,Assam,humid-subtropical,0.1054,21.6,16961.3,35.1,3155.3,0.0116,abundance,stable,0.1849,0.4125,2.3,39.2,0.094,Sivasagar,100.0
+Daman,Dadra and Nagar Haveli and Daman and Diu,coastal,0.0443,9.0,6685.1,6.5,1475.4,0.0073,abundance,stable,0.1371,0.4403,1.98,32.6,0.1108,Valsad,100.0
+Farrukhabad,Uttar Pradesh,humid-subtropical,0.2758,61.1,48098.5,133.6,6414.1,0.0068,abundance,stable,0.1799,0.4125,1.83,33.8,0.0681,Shahjahanpur,100.0
+Saitual,Mizoram,humid-subtropical,0.15,33.3,25728.7,33.5,4418.0,0.0057,abundance,stable,0.1335,0.4125,1.74,34.4,0.0865,Lawngtlai,100.0
+Thane,Maharashtra,coastal,1.8869,451.7,316635.8,109.0,85486.2,0.0054,severe-abundance,stable,0.1758,0.4403,1.44,33.5,0.1352,Mira-Bhayandar,100.0
+Tura,Meghalaya,humid-subtropical,0.0749,15.4,11982.1,21.9,1941.4,0.0047,abundance,stable,0.1554,0.4125,1.95,34.7,0.0819,Goalpara,100.0
+Serchhip,Mizoram,humid-subtropical,0.15,33.3,26269.5,42.8,4149.5,0.0044,abundance,stable,0.1378,0.4125,1.97,35.6,0.0798,Khawzawl,100.0
+Deoria,Uttar Pradesh,humid-subtropical,0.0167,3.2,2711.9,4.0,165.7,0.0035,abundance,stable,0.1387,0.4125,2.46,34.0,0.0313,Muzaffarpur,100.0
+Sitamarhi,Bihar,humid-subtropical,0.1061,21.8,17206.5,6.2,2524.3,0.0008,abundance,stable,0.1732,0.4125,1.72,33.3,0.0735,Muzaffarpur,100.0
+Sambalpur,Odisha,tropical-wet,0.3358,80.4,57820.6,0.0,15480.0,0.0,severe-abundance,stable,0.1782,0.4243,1.78,36.8,0.1339,,0.0
+Baripada,Odisha,tropical-wet,0.1169,25.9,18589.1,0.0,4606.9,0.0,abundance,stable,0.1799,0.4243,1.96,37.0,0.1239,,0.0
+Balasore,Odisha,coastal,0.1444,32.0,22332.7,0.0,6051.3,0.0,severe-abundance,stable,0.1469,0.4403,1.62,32.0,0.1355,,0.0
+Puri,Odisha,coastal,0.201,48.2,33954.8,0.0,9078.1,0.0,severe-abundance,stable,0.1376,0.4403,2.21,37.9,0.1337,,0.0
+Bhadrak,Odisha,coastal,0.1221,27.1,19502.0,0.0,4879.9,0.0,severe-abundance,stable,0.1714,0.4403,2.36,38.8,0.1251,,0.0
+Samastipur,Bihar,humid-subtropical,0.2531,56.2,43538.5,0.0,7800.2,0.0,abundance,stable,0.1814,0.4125,2.23,39.3,0.0896,,0.0
+Talcher,Odisha,tropical-wet,0.0408,8.4,6212.0,0.0,1335.4,0.0,abundance,stable,0.1685,0.4243,2.3,38.0,0.1075,,0.0
+Valsad,Gujarat,coastal,0.1701,40.7,29517.6,0.0,7067.6,0.0,abundance,stable,0.179,0.4403,2.31,38.3,0.1197,,0.0
+Sundargarh,Odisha,tropical-wet,0.045,9.2,6767.7,0.0,1412.9,0.0,abundance,stable,0.1225,0.4243,1.87,33.5,0.1044,,0.0
+Porbandar,Gujarat,coastal,0.1528,36.6,25733.2,0.0,6899.4,0.0,severe-abundance,stable,0.1113,0.4403,1.59,32.2,0.1341,,0.0
+Bharuch,Gujarat,coastal,0.1583,37.9,27084.6,0.0,6945.8,0.0,severe-abundance,stable,0.1822,0.4403,1.98,35.9,0.1282,,0.0
+Dhanbad,Jharkhand,humid-subtropical,1.1625,257.7,201339.9,0.0,31363.2,0.0,abundance,stable,0.1736,0.4125,1.77,36.3,0.0779,,0.0
+Raiganj,West Bengal,tropical-wet,0.1836,43.9,31516.0,0.0,7976.4,0.0,severe-abundance,stable,0.1209,0.4243,1.52,34.5,0.1265,,0.0
+Krishnanagar,West Bengal,tropical-wet,0.1531,36.6,26526.1,0.0,6260.2,0.0,abundance,stable,0.1488,0.4243,2.1,38.2,0.118,,0.0
+Cooch Behar,West Bengal,tropical-wet,0.0779,17.3,12468.1,0.0,2920.3,0.0,abundance,stable,0.1615,0.4243,1.72,33.6,0.1171,,0.0
+Alipurduar,West Bengal,tropical-wet,0.0652,14.4,10498.7,0.0,2425.3,0.0,abundance,stable,0.1787,0.4243,1.86,35.0,0.1155,,0.0
+Purulia,West Bengal,tropical-wet,0.1211,26.9,19363.9,0.0,4604.0,0.0,abundance,stable,0.17,0.4243,2.27,39.0,0.1189,,0.0
+Bankura,West Bengal,tropical-wet,0.1374,30.4,21918.0,0.0,5375.1,0.0,abundance,stable,0.1748,0.4243,1.68,34.9,0.1226,,0.0
+Jeypore,Odisha,tropical-wet,0.1011,22.4,16075.8,0.0,3909.5,0.0,abundance,stable,0.1674,0.4243,1.64,33.7,0.1216,,0.0
+Angul,Odisha,tropical-wet,0.0444,9.0,6648.1,0.0,1357.4,0.0,abundance,stable,0.1561,0.4243,1.75,31.9,0.1021,,0.0
+Ranaghat,West Bengal,tropical-wet,0.0754,16.7,11981.8,0.0,2959.7,0.0,abundance,stable,0.1406,0.4243,2.06,37.3,0.1235,,0.0
+Chandannagar,West Bengal,coastal,0.1669,39.9,28128.4,0.0,7985.0,0.0,severe-abundance,stable,0.1423,0.4403,1.76,35.5,0.1419,,0.0
+Veraval,Gujarat,coastal,0.1537,36.8,25766.6,0.0,7125.2,0.0,severe-abundance,stable,0.1192,0.4403,1.62,32.9,0.1383,,0.0
+Ulhasnagar,Maharashtra,coastal,0.5061,121.1,85300.5,0.0,23338.3,0.0,severe-abundance,stable,0.1747,0.4403,1.55,33.9,0.1368,,0.0
+Surat,Gujarat,coastal,6.538,1739.0,1235894.4,0.0,327466.6,0.0,severe-abundance,stable,0.1767,0.4403,1.76,38.4,0.1325,,0.0
+Berhampur,Odisha,coastal,0.3558,85.2,60568.5,0.0,17559.9,0.0,severe-abundance,stable,0.1812,0.4403,1.95,37.5,0.145,,0.0
+Rourkela,Odisha,tropical-wet,0.6,143.6,103445.4,0.0,24645.8,0.0,abundance,stable,0.1712,0.4243,1.4,33.5,0.1191,,0.0
+Cuttack,Odisha,tropical-wet,0.606,145.1,101906.3,0.0,27493.9,0.0,severe-abundance,stable,0.1468,0.4243,1.44,34.7,0.1349,,0.0
+Bhubaneswar,Odisha,tropical-wet,0.8377,200.5,143103.0,0.0,36244.3,0.0,severe-abundance,stable,0.1239,0.4243,1.56,35.5,0.1266,,0.0
+Diu,Dadra and Nagar Haveli and Daman and Diu,coastal,0.0521,11.6,8313.5,0.0,2077.8,0.0,abundance,stable,0.1365,0.4403,2.17,35.9,0.125,,0.0
+Car Nicobar,Andaman and Nicobar Islands,coastal,0.15,35.9,25347.0,0.0,7034.8,0.0,severe-abundance,stable,0.1502,0.4403,1.65,33.9,0.1388,,0.0
+Paradip,Odisha,coastal,0.15,35.9,25466.6,0.0,7083.9,0.0,severe-abundance,stable,0.1257,0.4403,1.58,32.9,0.1391,,0.0
+Rayagada,Odisha,tropical-wet,0.0712,15.8,11639.6,0.0,2480.9,0.0,abundance,stable,0.1421,0.4243,2.14,36.8,0.1066,,0.0
+Dhenkanal,Odisha,tropical-wet,0.0674,15.0,10613.0,0.0,3028.0,0.0,severe-abundance,stable,0.1447,0.4243,1.93,37.7,0.1427,,0.0
+Bargarh,Odisha,tropical-wet,0.0806,17.8,13012.0,0.0,2890.5,0.0,abundance,stable,0.1379,0.4243,2.38,39.2,0.1111,,0.0
+Koraput,Odisha,tropical-wet,0.0522,11.6,8601.4,0.0,1785.3,0.0,abundance,stable,0.1453,0.4243,1.86,34.1,0.1038,,0.0
+Sasaram,Bihar,humid-subtropical,0.3583,79.5,61150.5,0.0,10399.5,0.0,abundance,stable,0.1269,0.4125,1.47,33.2,0.085,,0.0
+Diskit,Ladakh,temperate-highland,0.15,29.6,20381.9,0.0,6417.9,0.0,severe-abundance,stable,0.1364,0.4014,0.4,42.3,0.1574,,0.0
+Margao,Goa,coastal,0.15,35.9,25697.7,0.0,6475.9,0.0,severe-abundance,stable,0.1591,0.4403,2.06,36.2,0.126,,0.0
+Panaji,Goa,coastal,0.04,8.1,6073.9,0.0,1293.1,0.0,abundance,stable,0.1525,0.4403,2.18,34.8,0.1064,,0.0
+Vasco da Gama,Goa,coastal,0.0944,20.9,15091.0,0.0,3491.2,0.0,abundance,stable,0.1534,0.4403,2.03,34.0,0.1157,,0.0
+Nyoma,Ladakh,temperate-highland,0.15,29.6,19641.6,0.0,7513.4,0.0,severe-abundance,stable,0.0973,0.4014,0.29,44.7,0.1913,,0.0
+Bicholim,Goa,coastal,0.15,35.9,25251.6,0.0,7155.4,0.0,severe-abundance,stable,0.1461,0.4403,1.79,34.8,0.1417,,0.0
+Canacona,Goa,coastal,0.15,35.9,25236.4,0.0,7199.3,0.0,severe-abundance,stable,0.1294,0.4403,2.24,38.5,0.1426,,0.0
+Puducherry,Puducherry,coastal,0.15,35.9,25697.6,0.0,6242.6,0.0,abundance,stable,0.1845,0.4403,1.95,34.4,0.1215,,0.0
+Sanquelim,Goa,coastal,0.0148,3.0,2406.1,0.0,269.3,0.0,abundance,stable,0.1293,0.4403,2.02,28.8,0.056,,0.0
+Bandipora,Jammu and Kashmir,temperate-highland,0.0275,4.6,3525.1,0.0,620.9,0.0,abundance,stable,0.1163,0.4014,1.03,40.5,0.0881,,0.0
+Karaikal,Puducherry,coastal,0.15,35.9,25794.3,0.0,6364.9,0.0,abundance,stable,0.1706,0.4403,2.23,37.3,0.1234,,0.0
+Bijbehara,Jammu and Kashmir,temperate-highland,0.15,29.6,20149.0,0.0,6671.6,0.0,severe-abundance,stable,0.1194,0.4014,0.39,42.8,0.1656,,0.0
+Leh,Ladakh,temperate-highland,0.0309,5.2,3811.6,0.0,888.1,0.0,abundance,stable,0.0893,0.4014,0.48,38.3,0.1165,,0.0
+Kargil,Ladakh,temperate-highland,0.0163,2.7,2114.4,0.0,338.6,0.0,abundance,stable,0.1052,0.4014,1.01,40.1,0.0801,,0.0
+Mapusa,Goa,coastal,0.15,35.9,25746.2,0.0,6143.8,0.0,abundance,stable,0.1483,0.4403,2.25,36.6,0.1193,,0.0
+Rudrapur,Uttarakhand,temperate-highland,0.1545,30.4,21077.0,0.0,6511.0,0.0,severe-abundance,stable,0.1285,0.4014,0.46,42.8,0.1545,,0.0
+Haldwani,Uttarakhand,temperate-highland,0.656,129.4,88955.8,0.0,30402.7,0.0,severe-abundance,stable,0.1735,0.4014,1.82,43.9,0.1709,,0.0
+Roorkee,Uttarakhand,temperate-highland,0.15,29.6,20309.0,0.0,6703.9,0.0,severe-abundance,stable,0.1169,0.4014,0.34,42.8,0.165,,0.0
+Haridwar,Uttarakhand,temperate-highland,0.2288,45.1,30807.8,0.0,10034.8,0.0,severe-abundance,stable,0.1154,0.4014,0.16,41.0,0.1629,,0.0
+Dehradun,Uttarakhand,temperate-highland,0.5784,114.0,78925.7,0.0,23446.3,0.0,severe-abundance,stable,0.1531,0.4014,1.5,39.0,0.1485,,0.0
+Kalyan-Dombivli,Maharashtra,coastal,1.2464,298.4,212391.0,0.0,53751.9,0.0,severe-abundance,stable,0.174,0.4403,1.92,36.9,0.1265,,0.0
+Vasai-Virar,Maharashtra,coastal,1.2212,292.3,204833.1,0.0,55986.2,0.0,severe-abundance,stable,0.1772,0.4403,1.62,35.0,0.1367,,0.0
+Mira-Bhayandar,Maharashtra,coastal,0.8094,193.8,136040.5,0.0,39871.8,0.0,severe-abundance,stable,0.1815,0.4403,1.78,36.0,0.1465,,0.0
+Panvel,Maharashtra,coastal,0.3114,74.6,53115.8,0.0,14061.5,0.0,severe-abundance,stable,0.1518,0.4403,1.74,35.0,0.1324,,0.0
+Ratnagiri,Maharashtra,coastal,0.3271,78.2,55038.2,0.0,14997.7,0.0,severe-abundance,stable,0.1736,0.4403,1.94,36.6,0.1362,,0.0
+Baharampur,West Bengal,tropical-wet,0.1952,46.8,33336.3,0.0,8713.5,0.0,severe-abundance,stable,0.1656,0.4243,1.59,34.7,0.1307,,0.0
+Jalpaiguri,West Bengal,tropical-wet,0.1073,23.8,17593.5,0.0,3805.1,0.0,abundance,stable,0.1338,0.4243,2.25,38.7,0.1081,,0.0
+Malda,West Bengal,tropical-wet,0.2055,49.2,35037.4,0.0,8814.6,0.0,severe-abundance,stable,0.1865,0.4243,2.27,40.0,0.1258,,0.0
+Darjeeling,West Bengal,temperate-highland,0.1188,21.7,14979.2,0.0,4683.2,0.0,severe-abundance,stable,0.0833,0.4014,0.23,40.5,0.1563,,0.0
+Haldia,West Bengal,coastal,0.2008,48.0,33318.2,0.0,9795.4,0.0,severe-abundance,stable,0.148,0.4403,1.95,37.0,0.147,,0.0
+Kharagpur,West Bengal,tropical-wet,0.2076,49.6,35946.4,0.0,8842.4,0.0,abundance,stable,0.1773,0.4243,1.82,36.5,0.123,,0.0
+Bardhaman,West Bengal,tropical-wet,0.3143,75.3,54030.5,0.0,13310.3,0.0,abundance,stable,0.1517,0.4243,1.77,36.4,0.1232,,0.0
+Siliguri,West Bengal,tropical-wet,0.7015,167.9,121549.0,0.0,28990.2,0.0,abundance,stable,0.1374,0.4243,1.97,38.9,0.1193,,0.0
+Asansol,West Bengal,tropical-wet,0.5639,135.0,97989.7,0.0,22065.8,0.0,abundance,stable,0.1509,0.4243,2.13,38.8,0.1126,,0.0
+Durgapur,West Bengal,tropical-wet,0.726,173.8,124135.4,0.0,31554.6,0.0,severe-abundance,stable,0.1689,0.4243,1.36,34.2,0.1271,,0.0
+Howrah,West Bengal,coastal,1.0771,257.9,183852.6,0.0,48051.0,0.0,severe-abundance,stable,0.1713,0.4403,1.41,33.3,0.1307,,0.0
+Kolkata,West Bengal,coastal,21.747,5784.3,4039534.3,0.0,1188894.5,0.0,severe-abundance,stable,0.1655,0.4403,1.11,35.0,0.1472,,0.0
+Guruvayur,Kerala,tropical-wet,0.067,14.9,10780.8,0.0,2556.2,0.0,abundance,stable,0.135,0.4243,1.74,34.3,0.1186,,0.0
+Kanhangad,Kerala,coastal,0.0655,14.5,10081.8,0.0,2801.4,0.0,severe-abundance,stable,0.1583,0.4403,1.75,32.3,0.1389,,0.0
+Perinthalmanna,Kerala,tropical-wet,0.0497,10.2,7372.3,0.0,1702.7,0.0,abundance,stable,0.1355,0.4243,2.15,36.6,0.1155,,0.0
+Jamnagar,Gujarat,coastal,0.4799,114.9,80853.1,0.0,21419.4,0.0,severe-abundance,stable,0.1417,0.4403,1.92,36.0,0.1325,,0.0
+Bhavnagar,Gujarat,coastal,0.6434,154.0,109232.7,0.0,28997.7,0.0,severe-abundance,stable,0.1516,0.4403,1.68,35.1,0.1327,,0.0
+Kashipur,Uttarakhand,temperate-highland,0.3216,63.4,43783.0,0.0,13923.7,0.0,severe-abundance,stable,0.1074,0.4014,0.74,46.7,0.159,,0.0
+Pithoragarh,Uttarakhand,temperate-highland,0.056,10.3,7053.1,0.0,2275.6,0.0,severe-abundance,stable,0.155,0.4014,0.97,46.5,0.1613,,0.0
+Kotdwar,Uttarakhand,temperate-highland,0.1752,34.6,23577.7,0.0,7624.6,0.0,severe-abundance,stable,0.1024,0.4014,0.3,41.4,0.1617,,0.0
+Nainital,Uttarakhand,temperate-highland,0.0414,7.0,4889.0,0.0,1451.6,0.0,severe-abundance,stable,0.1349,0.4014,0.77,43.5,0.1484,,0.0
+Rishikesh,Uttarakhand,temperate-highland,0.1021,18.7,12915.9,0.0,4054.3,0.0,severe-abundance,stable,0.118,0.4014,0.23,39.9,0.157,,0.0
+Kottayam,Kerala,tropical-wet,0.5719,136.9,97443.3,0.0,26245.9,0.0,severe-abundance,stable,0.1819,0.4243,2.16,41.5,0.1347,,0.0
+Palakkad,Kerala,tropical-wet,0.131,29.1,20540.7,0.0,5352.5,0.0,severe-abundance,stable,0.1556,0.4243,1.81,35.3,0.1303,,0.0
+Alappuzha,Kerala,coastal,0.241,57.7,41379.1,0.0,11670.3,0.0,severe-abundance,stable,0.1653,0.4403,1.96,36.8,0.141,,0.0
+Kannur,Kerala,coastal,0.2325,55.6,38790.2,0.0,10532.6,0.0,severe-abundance,stable,0.1455,0.4403,1.55,32.0,0.1358,,0.0
+Kollam,Kerala,coastal,0.3974,95.2,67256.6,0.0,18385.4,0.0,severe-abundance,stable,0.1565,0.4403,2.0,37.7,0.1367,,0.0
+Thrissur,Kerala,tropical-wet,0.3156,75.5,53684.3,0.0,13246.4,0.0,abundance,stable,0.1701,0.4243,1.71,35.1,0.1234,,0.0
+Kozhikode,Kerala,coastal,0.4316,103.3,73448.0,0.0,19439.3,0.0,severe-abundance,stable,0.1803,0.4403,1.92,36.8,0.1323,,0.0
+Kochi,Kerala,coastal,0.6774,162.1,113534.9,0.0,31107.0,0.0,severe-abundance,stable,0.1856,0.4403,2.11,38.5,0.137,,0.0
+Thiruvananthapuram,Kerala,coastal,0.7437,178.0,121764.8,0.0,36975.6,0.0,severe-abundance,stable,0.1761,0.4403,1.53,34.4,0.1518,,0.0
+Sundernagar,Himachal Pradesh,temperate-highland,0.0243,4.1,3072.4,0.0,655.4,0.0,abundance,stable,0.0764,0.4014,0.34,36.9,0.1067,,0.0
+Palampur,Himachal Pradesh,temperate-highland,0.0404,6.8,4800.1,0.0,1347.8,0.0,severe-abundance,stable,0.1359,0.4014,0.8,43.0,0.1404,,0.0
+Pathanamthitta,Kerala,tropical-wet,0.0378,7.7,5758.5,0.0,1156.1,0.0,abundance,stable,0.1421,0.4243,2.51,38.2,0.1004,,0.0
+Ponnani,Kerala,coastal,0.0905,20.0,14225.5,0.0,3716.5,0.0,severe-abundance,stable,0.1643,0.4403,1.72,32.4,0.1306,,0.0
+Malappuram,Kerala,tropical-wet,0.0757,16.8,12077.5,0.0,3183.6,0.0,severe-abundance,stable,0.166,0.4243,2.09,38.1,0.1318,,0.0
+Thalassery,Kerala,coastal,0.0994,22.1,15756.6,0.0,4129.0,0.0,severe-abundance,stable,0.1393,0.4403,1.73,32.6,0.131,,0.0
+Almora,Uttarakhand,temperate-highland,0.0341,5.7,4160.8,0.0,968.1,0.0,abundance,stable,0.1089,0.4014,0.61,39.2,0.1163,,0.0
+Kullu,Himachal Pradesh,temperate-highland,0.0185,3.1,2352.8,0.0,460.7,0.0,abundance,stable,0.121,0.4014,0.88,40.0,0.0979,,0.0
+Manali,Himachal Pradesh,temperate-highland,0.0377,6.3,4529.9,0.0,1147.6,0.0,severe-abundance,stable,0.1209,0.4014,0.82,41.7,0.1267,,0.0
+Una,Himachal Pradesh,coastal,0.0585,12.9,9328.6,0.0,2153.7,0.0,abundance,stable,0.144,0.4403,2.0,33.5,0.1154,,0.0
+Chamba,Himachal Pradesh,temperate-highland,0.15,29.6,20531.8,0.0,6321.4,0.0,severe-abundance,stable,0.1107,0.4014,0.39,42.2,0.1539,,0.0
+Nahan,Himachal Pradesh,temperate-highland,0.0289,4.9,3510.1,0.0,886.7,0.0,severe-abundance,stable,0.106,0.4014,0.38,37.5,0.1263,,0.0
+Paonta Sahib,Himachal Pradesh,temperate-highland,0.0252,4.2,3149.2,0.0,641.7,0.0,abundance,stable,0.14,0.4014,0.92,40.3,0.1019,,0.0
+Vikasnagar,Uttarakhand,temperate-highland,0.0125,2.1,1733.9,0.0,166.6,0.0,abundance,stable,0.1143,0.4014,0.95,36.7,0.048,,0.0
+Mussoorie,Uttarakhand,temperate-highland,0.0301,5.1,3658.4,0.0,983.7,0.0,severe-abundance,stable,0.1198,0.4014,0.93,44.0,0.1344,,0.0
+Ramnagar,Uttarakhand,temperate-highland,0.0979,17.9,12297.9,0.0,4030.5,0.0,severe-abundance,stable,0.1402,0.4014,0.58,43.6,0.1639,,0.0
+Tehri,Uttarakhand,temperate-highland,0.024,4.1,3031.5,0.0,688.4,0.0,abundance,stable,0.0949,0.4014,0.87,41.5,0.1135,,0.0
+Chamoli,Uttarakhand,temperate-highland,0.15,29.6,20535.9,0.0,6272.8,0.0,severe-abundance,stable,0.0928,0.4014,0.29,41.1,0.1527,,0.0
+Uttarkashi,Uttarakhand,temperate-highland,0.0402,6.8,4694.5,0.0,1443.2,0.0,severe-abundance,stable,0.1036,0.4014,0.83,44.0,0.1537,,0.0
+Shimla,Himachal Pradesh,temperate-highland,0.2066,40.7,27504.3,0.0,9353.6,0.0,severe-abundance,stable,0.1335,0.4014,0.24,41.9,0.17,,0.0
+Dharamshala,Himachal Pradesh,temperate-highland,0.019,3.2,2418.1,0.0,455.5,0.0,abundance,stable,0.0988,0.4014,0.45,35.7,0.0942,,0.0
+Solan,Himachal Pradesh,temperate-highland,0.0393,6.6,4660.7,0.0,1309.6,0.0,severe-abundance,stable,0.1199,0.4014,0.74,41.8,0.1405,,0.0
+Baddi,Himachal Pradesh,temperate-highland,0.15,29.6,20865.9,0.0,6067.1,0.0,severe-abundance,stable,0.1212,0.4014,0.09,39.2,0.1454,,0.0
+Thoothukudi,Tamil Nadu,coastal,0.5,119.7,84031.9,0.0,23099.6,0.0,severe-abundance,stable,0.1442,0.4403,1.68,34.8,0.1374,,0.0
+Bareilly,Uttar Pradesh,humid-subtropical,1.0,221.6,173088.4,0.0,25022.0,0.0,abundance,stable,0.1734,0.4125,1.68,34.6,0.0723,,0.0
+Shillong,Meghalaya,temperate-highland,0.1432,26.2,18086.3,0.0,5774.1,0.0,severe-abundance,stable,0.1062,0.4014,0.16,40.5,0.1596,,0.0
+Visakhapatnam,Andhra Pradesh,coastal,2.0359,541.6,377308.3,0.0,113977.1,0.0,severe-abundance,stable,0.1773,0.4403,1.67,37.0,0.151,,0.0
+Naharlagun,Arunachal Pradesh,humid-subtropical,0.15,33.3,26164.6,0.0,3908.6,0.0,abundance,stable,0.1414,0.4125,1.9,35.5,0.0747,,0.0
+Tawang,Arunachal Pradesh,temperate-highland,0.15,29.6,20428.5,0.0,6306.3,0.0,severe-abundance,stable,0.0902,0.4014,0.58,43.4,0.1543,,0.0
+Ziro,Arunachal Pradesh,temperate-highland,0.0128,2.2,1750.2,0.0,249.4,0.0,abundance,stable,0.1065,0.4014,0.51,34.9,0.0712,,0.0
+Bomdila,Arunachal Pradesh,temperate-highland,0.15,29.6,20630.5,0.0,6299.6,0.0,severe-abundance,stable,0.1336,0.4014,0.21,40.1,0.1527,,0.0
+Vizianagaram,Andhra Pradesh,coastal,0.2287,54.8,39070.2,0.0,9931.9,0.0,severe-abundance,stable,0.1466,0.4403,2.28,38.4,0.1271,,0.0
+Nellore,Andhra Pradesh,coastal,0.5476,131.1,92621.2,0.0,24018.4,0.0,severe-abundance,stable,0.1848,0.4403,2.0,36.6,0.1297,,0.0
+Kasaragod,Kerala,coastal,0.0542,12.0,8779.9,0.0,2011.7,0.0,abundance,stable,0.1543,0.4403,2.31,36.8,0.1146,,0.0
+Rajamahendravaram,Andhra Pradesh,coastal,0.3418,81.8,57733.5,0.0,15878.3,0.0,severe-abundance,stable,0.1408,0.4403,1.46,32.5,0.1375,,0.0
+Kakinada,Andhra Pradesh,coastal,0.3842,92.0,64447.6,0.0,18536.4,0.0,severe-abundance,stable,0.152,0.4403,1.59,33.9,0.1438,,0.0
+Ongole,Andhra Pradesh,coastal,0.2047,49.0,34270.6,0.0,9481.5,0.0,severe-abundance,stable,0.1705,0.4403,2.18,37.9,0.1383,,0.0
+Machilipatnam,Andhra Pradesh,coastal,0.232,55.5,39033.5,0.0,11033.0,0.0,severe-abundance,stable,0.1768,0.4403,2.07,37.3,0.1413,,0.0
+Srikakulam,Andhra Pradesh,coastal,0.1379,30.5,21742.7,0.0,5338.2,0.0,abundance,stable,0.1923,0.4403,2.31,36.8,0.1228,,0.0
+Manjeri,Kerala,tropical-wet,0.0537,11.9,8755.9,0.0,1831.6,0.0,abundance,stable,0.1457,0.4243,1.76,32.9,0.1046,,0.0
+Aizawl,Mizoram,temperate-highland,0.2934,57.9,39768.3,0.0,12544.3,0.0,severe-abundance,stable,0.1126,0.4014,0.45,43.3,0.1577,,0.0
+Lunglei,Mizoram,temperate-highland,0.157,31.0,21373.0,0.0,6864.9,0.0,severe-abundance,stable,0.1124,0.4014,0.52,43.9,0.1606,,0.0
+Bishnupur,Manipur,temperate-highland,0.0678,12.3,8663.4,0.0,2591.1,0.0,severe-abundance,stable,0.1062,0.4014,0.56,42.3,0.1495,,0.0
+Karwar,Karnataka,coastal,0.1552,37.2,26476.5,0.0,7197.0,0.0,severe-abundance,stable,0.1354,0.4403,2.07,36.5,0.1359,,0.0
+Mangaluru,Karnataka,coastal,0.6238,149.3,105554.3,0.0,30517.7,0.0,severe-abundance,stable,0.1769,0.4403,1.58,34.2,0.1446,,0.0
+Nagercoil,Tamil Nadu,coastal,0.2899,69.4,49207.0,0.0,12565.9,0.0,severe-abundance,stable,0.1689,0.4403,2.04,36.2,0.1277,,0.0
+Kohima,Nagaland,temperate-highland,0.099,18.1,12396.8,0.0,4077.8,0.0,severe-abundance,stable,0.1157,0.4014,0.17,40.3,0.1645,,0.0
+Mokokchung,Nagaland,temperate-highland,0.0359,6.0,4296.2,0.0,1115.2,0.0,severe-abundance,stable,0.0876,0.4014,0.38,38.4,0.1298,,0.0
+Tuensang,Nagaland,temperate-highland,0.0368,6.2,4447.9,0.0,1155.7,0.0,severe-abundance,stable,0.1184,0.4014,0.75,41.7,0.1299,,0.0
+Wokha,Nagaland,temperate-highland,0.035,5.8,4215.9,0.0,1025.6,0.0,abundance,stable,0.1308,0.4014,0.88,41.6,0.1216,,0.0
+Zunheboto,Nagaland,temperate-highland,0.0228,3.9,2895.3,0.0,634.6,0.0,abundance,stable,0.1099,0.4014,0.75,40.0,0.1096,,0.0
+Mahe,Puducherry,tropical-wet,0.0368,7.6,5573.6,0.0,1233.7,0.0,abundance,stable,0.1224,0.4243,1.99,35.2,0.1107,,0.0
+Yanam,Puducherry,tropical-wet,0.076,16.8,12114.0,0.0,3027.9,0.0,abundance,stable,0.1517,0.4243,2.28,39.5,0.125,,0.0
+Champhai,Mizoram,temperate-highland,0.15,29.6,19941.2,0.0,6840.8,0.0,severe-abundance,stable,0.1257,0.4014,0.23,41.4,0.1715,,0.0
+Cuddalore,Tamil Nadu,coastal,0.1737,41.5,29585.6,0.0,7739.5,0.0,severe-abundance,stable,0.1677,0.4403,1.61,32.9,0.1308,,0.0
+Diglipur,Andaman and Nicobar Islands,coastal,0.0566,12.6,9065.3,0.0,2354.1,0.0,severe-abundance,stable,0.1414,0.4403,2.09,36.1,0.1298,,0.0
+Sri Vijaya Puram,Andaman and Nicobar Islands,coastal,0.1406,31.1,22170.5,0.0,6015.4,0.0,severe-abundance,stable,0.1453,0.4403,1.8,34.8,0.1357,,0.0
+Mayabunder,Andaman and Nicobar Islands,coastal,0.15,35.9,25665.6,0.0,6856.3,0.0,severe-abundance,stable,0.1756,0.4403,2.08,36.9,0.1336,,0.0
+Rangat,Andaman and Nicobar Islands,coastal,0.15,35.9,25402.5,0.0,6893.2,0.0,severe-abundance,stable,0.1491,0.4403,2.04,36.9,0.1357,,0.0
+Lakhimpur,Uttar Pradesh,humid-subtropical,0.0166,3.2,2719.4,0.0,164.8,0.0,abundance,stable,0.1296,0.4125,2.56,35.2,0.0303,,0.0
+Rae Bareli,Uttar Pradesh,humid-subtropical,0.1913,42.4,33133.0,0.0,5255.9,0.0,abundance,stable,0.148,0.4125,1.62,33.0,0.0793,,0.0
+Agartala,Tripura,humid-subtropical,0.5226,115.9,90097.8,0.0,15776.9,0.0,abundance,stable,0.1457,0.4125,1.66,35.5,0.0876,,0.0
+Teliamura,Tripura,humid-subtropical,0.15,33.3,26213.4,0.0,3590.1,0.0,abundance,stable,0.1451,0.4125,1.96,34.8,0.0685,,0.0
+Gangtok,Sikkim,temperate-highland,0.1003,18.3,12551.8,0.0,3985.9,0.0,severe-abundance,stable,0.1006,0.4014,0.22,40.1,0.1588,,0.0
+Namchi,Sikkim,temperate-highland,0.0122,2.1,1683.8,0.0,203.2,0.0,abundance,stable,0.0901,0.4014,0.43,33.2,0.0603,,0.0
+Gyalshing,Sikkim,temperate-highland,0.15,29.6,20452.7,0.0,5894.3,0.0,severe-abundance,stable,0.1097,0.4014,0.51,40.8,0.1441,,0.0
+Mangan,Sikkim,temperate-highland,0.0176,2.9,2213.3,0.0,415.5,0.0,abundance,stable,0.1032,0.4014,0.86,39.7,0.0939,,0.0
+Singtam,Sikkim,temperate-highland,0.15,29.6,20595.8,0.0,6278.0,0.0,severe-abundance,stable,0.1055,0.4014,0.53,43.0,0.1524,,0.0
+Rangpo,Sikkim,temperate-highland,0.15,29.6,20417.5,0.0,6121.8,0.0,severe-abundance,stable,0.1519,0.4014,0.66,43.2,0.1499,,0.0
+Jorethang,Sikkim,temperate-highland,0.15,29.6,20098.4,0.0,6547.5,0.0,severe-abundance,stable,0.0855,0.4014,0.74,45.1,0.1629,,0.0
+Pakyong,Sikkim,temperate-highland,0.15,29.6,20417.1,0.0,6412.3,0.0,severe-abundance,stable,0.1434,0.4014,0.82,46.0,0.157,,0.0
+Srinagar,Jammu and Kashmir,temperate-highland,1.1806,232.8,158575.9,0.0,53248.9,0.0,severe-abundance,stable,0.1761,0.4014,2.02,46.4,0.1679,,0.0
+Jammu,Jammu and Kashmir,temperate-highland,0.5022,99.1,69148.8,0.0,21408.8,0.0,severe-abundance,stable,0.1511,0.4014,2.14,46.4,0.1548,,0.0
+Anantnag,Jammu and Kashmir,temperate-highland,0.15,29.6,20312.4,0.0,6330.6,0.0,severe-abundance,stable,0.1104,0.4014,0.25,40.3,0.1558,,0.0
+Baramulla,Jammu and Kashmir,temperate-highland,0.168,33.2,22837.4,0.0,7358.0,0.0,severe-abundance,stable,0.1449,0.4014,0.36,42.0,0.1611,,0.0
+Udhampur,Jammu and Kashmir,temperate-highland,0.0355,5.9,4182.7,0.0,1237.0,0.0,severe-abundance,stable,0.1435,0.4014,0.38,40.3,0.1479,,0.0
+Kathua,Jammu and Kashmir,temperate-highland,0.0599,10.9,7654.7,0.0,2200.0,0.0,severe-abundance,stable,0.1259,0.4014,0.71,42.9,0.1437,,0.0
+Sopore,Jammu and Kashmir,temperate-highland,0.15,29.6,20365.3,0.0,6443.4,0.0,severe-abundance,stable,0.0996,0.4014,0.2,40.5,0.1582,,0.0
+Pulwama,Jammu and Kashmir,temperate-highland,0.15,29.6,20305.6,0.0,6331.4,0.0,severe-abundance,stable,0.1008,0.4014,0.65,43.8,0.1559,,0.0
+Rajouri,Jammu and Kashmir,temperate-highland,0.15,29.6,20291.2,0.0,6274.8,0.0,severe-abundance,stable,0.1025,0.4014,0.22,39.7,0.1546,,0.0
+Poonch,Jammu and Kashmir,temperate-highland,0.15,29.6,20242.2,0.0,6687.9,0.0,severe-abundance,stable,0.1258,0.4014,0.82,47.0,0.1652,,0.0
+Doda,Jammu and Kashmir,temperate-highland,0.0115,2.0,1704.9,0.0,114.5,0.0,abundance,stable,0.0812,0.4014,0.61,33.8,0.0336,,0.0
+Kupwara,Jammu and Kashmir,temperate-highland,0.15,29.6,20548.0,0.0,6402.8,0.0,severe-abundance,stable,0.1183,0.4014,0.33,41.6,0.1558,,0.0
+Mumbai,Maharashtra,coastal,24.973,6642.3,4690429.5,0.0,1251107.8,0.0,severe-abundance,stable,0.1703,0.4403,1.33,35.9,0.1334,,0.0
+Agatti,Lakshadweep,coastal,0.15,35.9,25623.9,0.0,6528.1,0.0,severe-abundance,stable,0.1399,0.4403,1.81,33.7,0.1274,,0.0
+Andrott,Lakshadweep,coastal,0.15,35.9,25361.0,0.0,6855.6,0.0,severe-abundance,stable,0.136,0.4403,1.7,33.7,0.1352,,0.0
+Minicoy,Lakshadweep,coastal,0.15,35.9,25585.0,0.0,6717.8,0.0,severe-abundance,stable,0.179,0.4403,2.24,38.0,0.1313,,0.0

@@ -1,0 +1,585 @@
+state_ut,city,lat,lon,climate_zone,pop_millions,lpcd_norm,gross_supply_ml,n_zones,coord_source
+Maharashtra,Mumbai,19.0761,72.8775,coastal,24.973,150,5806.2,10,matched
+Maharashtra,Pune,18.5203,73.8567,semi-arid,8.231,150,1913.7,10,matched
+Maharashtra,Nagpur,21.1497,79.0806,semi-arid,2.4057,150,559.3,8,matched
+Maharashtra,Nashik,19.9975,73.7898,semi-arid,1.4861,135,311.0,7,matched
+Maharashtra,Thane,19.1972,72.9722,coastal,1.8869,135,394.8,8,matched
+Maharashtra,Navi Mumbai,19.033,73.0297,coastal,0.01,115,1.8,3,manual
+Maharashtra,Chhatrapati Sambhajinagar,19.88,75.32,semi-arid,1.1751,135,245.9,7,matched
+Maharashtra,Solapur,17.68,75.92,semi-arid,0.9516,135,199.1,6,matched
+Maharashtra,Kolhapur,16.6917,74.2333,semi-arid,0.5615,135,117.5,6,matched
+Maharashtra,Amravati,20.9258,77.7647,semi-arid,0.5494,135,115.0,6,matched
+Maharashtra,Nanded,19.15,77.3,semi-arid,0.5504,135,115.2,6,matched
+Maharashtra,Sangli,16.853,74.583,semi-arid,0.4366,135,91.4,5,matched
+Maharashtra,Jalgaon,21.004,75.568,semi-arid,0.4605,135,96.4,5,matched
+Maharashtra,Akola,20.7,77.0,semi-arid,0.4258,135,89.1,5,matched
+Maharashtra,Latur,18.4088,76.5604,semi-arid,0.01,115,1.8,3,manual
+Maharashtra,Dhule,20.8997,74.7697,semi-arid,0.6556,135,137.2,6,matched
+Maharashtra,Ahilyanagar,19.08,74.73,semi-arid,0.3509,135,73.4,5,matched
+Maharashtra,Chandrapur,19.95,79.297,semi-arid,0.518,135,108.4,6,matched
+Maharashtra,Parbhani,19.27,76.78,semi-arid,0.3072,135,64.3,5,matched
+Maharashtra,Ichalkaranji,16.7,74.47,semi-arid,0.2876,135,60.2,5,matched
+Maharashtra,Malegaon,20.55,74.55,semi-arid,0.4812,135,100.7,5,matched
+Maharashtra,Jalna,19.841,75.8864,semi-arid,0.393,135,82.2,5,matched
+Maharashtra,Beed,18.9894,75.7601,semi-arid,0.01,115,1.8,3,manual
+Maharashtra,Wardha,20.7417,78.6056,semi-arid,0.1064,125,20.6,4,matched
+Maharashtra,Yavatmal,20.24,78.06,semi-arid,0.1166,125,22.6,4,matched
+Maharashtra,Ratnagiri,16.9944,73.3,coastal,0.3271,135,68.4,5,matched
+Maharashtra,Satara,17.688,74.006,semi-arid,0.1791,135,37.5,4,matched
+Maharashtra,Baramati,18.15,74.58,semi-arid,0.0544,125,10.5,4,matched
+Maharashtra,Panvel,18.9944,73.1139,coastal,0.3114,135,65.2,5,matched
+Maharashtra,Mira-Bhayandar,19.29,72.85,coastal,0.8094,135,169.4,6,matched
+Maharashtra,Vasai-Virar,19.47,72.8,coastal,1.2212,135,255.5,7,matched
+Maharashtra,Kalyan-Dombivli,19.24,73.13,coastal,1.2464,135,260.8,7,matched
+Maharashtra,Ulhasnagar,19.22,73.15,coastal,0.5061,135,105.9,5,matched
+Maharashtra,Ambarnath,19.209,73.186,semi-arid,0.2535,135,53.0,5,matched
+Maharashtra,Bhiwandi,19.2967,73.0631,semi-arid,0.7097,135,148.5,6,matched
+Maharashtra,Dharashiv,18.3194,76.0736,semi-arid,0.1121,125,21.7,4,matched
+Maharashtra,Gondia,21.4598,80.195,semi-arid,0.1328,125,25.7,4,matched
+Maharashtra,Bhusawal,21.05,75.77,semi-arid,0.1874,135,39.2,5,matched
+Maharashtra,Hingoli,19.7174,77.1497,semi-arid,0.01,115,1.8,3,manual
+Maharashtra,Washim,20.1113,77.133,semi-arid,0.0629,125,12.2,4,matched
+Gujarat,Ahmedabad,23.0225,72.5714,semi-arid,8.009,150,1862.1,10,matched
+Gujarat,Surat,21.205,72.84,coastal,6.538,150,1520.1,10,matched
+Gujarat,Vadodara,22.3,73.2,semi-arid,2.0658,150,480.3,8,matched
+Gujarat,Rajkot,22.3,70.7833,semi-arid,2.043,150,475.0,8,matched
+Gujarat,Gandhinagar,23.2231,72.65,semi-arid,0.1959,135,41.0,5,matched
+Gujarat,Bhavnagar,21.76,72.15,coastal,0.6434,135,134.6,6,matched
+Gujarat,Jamnagar,22.47,70.07,coastal,0.4799,135,100.4,5,matched
+Gujarat,Junagadh,21.5222,70.4579,semi-arid,0.3202,135,67.0,5,matched
+Gujarat,Anand,22.556,72.951,semi-arid,0.1305,125,25.3,4,matched
+Gujarat,Nadiad,22.69,72.86,semi-arid,0.2251,135,47.1,5,matched
+Gujarat,Morbi,22.82,70.83,semi-arid,0.1949,135,40.8,5,matched
+Gujarat,Mehsana,23.6,72.4,semi-arid,0.185,135,38.7,4,matched
+Gujarat,Bharuch,21.712,72.993,coastal,0.1583,135,33.1,4,matched
+Gujarat,Vapi,20.3715,72.9046,coastal,0.01,115,1.8,3,manual
+Gujarat,Navsari,20.8504,72.92,coastal,0.01,115,1.8,3,matched
+Gujarat,Porbandar,21.6417,69.6293,coastal,0.1528,135,32.0,4,matched
+Gujarat,Palanpur,24.1722,72.4333,semi-arid,0.1826,135,38.2,4,matched
+Gujarat,Godhra,22.7772,73.6203,semi-arid,0.1619,135,33.9,4,matched
+Gujarat,Veraval,20.9159,70.3629,coastal,0.1537,135,32.2,4,matched
+Gujarat,Gandhidham,23.08,70.13,arid,0.2487,135,52.0,5,matched
+Gujarat,Bhuj,23.25,69.67,arid,0.1882,135,39.4,5,matched
+Gujarat,Surendranagar,22.7,71.6833,arid,0.0758,125,14.7,4,matched
+Gujarat,Amreli,21.6006,71.2164,semi-arid,0.118,125,22.9,4,matched
+Gujarat,Botad,22.17,71.67,semi-arid,0.1303,125,25.2,4,matched
+Gujarat,Dahod,22.8377,74.253,semi-arid,0.01,115,1.8,3,manual
+Gujarat,Patan,23.85,72.125,semi-arid,0.1255,125,24.3,4,matched
+Gujarat,Valsad,20.61,72.926,coastal,0.1701,135,35.6,4,matched
+Gujarat,Kalol,23.246,72.496,semi-arid,0.1337,125,25.9,4,matched
+Gujarat,Deesa,24.2584,72.1906,semi-arid,0.01,115,1.8,3,manual
+Gujarat,Jetpur,21.7542,70.6222,semi-arid,0.1297,125,25.1,4,matched
+Madhya Pradesh,Indore,22.7167,75.8472,semi-arid,1.9944,135,417.3,8,matched
+Madhya Pradesh,Bhopal,23.2599,77.4126,semi-arid,1.7982,135,376.3,8,matched
+Madhya Pradesh,Jabalpur,23.1667,79.9333,semi-arid,1.2676,135,265.2,7,matched
+Madhya Pradesh,Gwalior,26.2125,78.1775,semi-arid,1.0693,135,223.7,7,matched
+Madhya Pradesh,Ujjain,23.17,75.79,semi-arid,0.5152,135,107.8,5,matched
+Madhya Pradesh,Sagar,14.1667,75.0333,semi-arid,0.0546,125,10.6,4,matched
+Madhya Pradesh,Dewas,22.96,76.06,semi-arid,0.2895,135,60.6,5,matched
+Madhya Pradesh,Satna,24.6005,80.8322,semi-arid,0.283,135,59.2,5,matched
+Madhya Pradesh,Ratlam,23.334,75.037,semi-arid,0.2739,135,57.3,5,matched
+Madhya Pradesh,Rewa,24.5381,81.2953,semi-arid,0.2365,135,49.5,5,matched
+Madhya Pradesh,Singrauli,24.202,82.666,semi-arid,0.2203,135,46.1,5,matched
+Madhya Pradesh,Burhanpur,21.3114,76.2289,semi-arid,0.2109,135,44.1,5,matched
+Madhya Pradesh,Khandwa,21.82,76.35,semi-arid,0.2007,135,42.0,5,matched
+Madhya Pradesh,Morena,26.5,78.0,semi-arid,0.2005,135,42.0,5,matched
+Madhya Pradesh,Chhindwara,22.057,78.9396,semi-arid,0.2027,135,42.4,5,matched
+Madhya Pradesh,Bhind,26.5647,78.7864,semi-arid,0.1976,135,41.3,5,matched
+Madhya Pradesh,Shivpuri,25.43,77.65,semi-arid,0.18,135,37.7,4,matched
+Madhya Pradesh,Vidisha,23.53,77.82,semi-arid,0.156,135,32.6,4,matched
+Madhya Pradesh,Guna,24.65,77.32,semi-arid,0.1809,135,37.9,4,matched
+Madhya Pradesh,Damoh,23.8331,79.4419,semi-arid,0.1689,135,35.3,4,matched
+Madhya Pradesh,Mandsaur,24.072,75.069,semi-arid,0.1417,125,27.4,4,matched
+Madhya Pradesh,Neemuch,24.4764,74.8696,semi-arid,0.01,115,1.8,3,manual
+Madhya Pradesh,Itarsi,22.6115,77.7623,semi-arid,0.0993,125,19.2,4,matched
+Madhya Pradesh,Betul,21.9004,77.9003,semi-arid,0.01,115,1.8,3,manual
+Madhya Pradesh,Sehore,23.2,77.08,semi-arid,0.1091,125,21.1,4,matched
+Madhya Pradesh,Narmadapuram,22.7475,77.7274,semi-arid,0.1286,125,24.9,4,matched
+Madhya Pradesh,Pithampur,22.6197,75.6933,semi-arid,0.1261,125,24.4,4,matched
+Madhya Pradesh,Dhar,22.5972,75.3042,semi-arid,0.0939,125,18.2,4,matched
+Madhya Pradesh,Chhatarpur,24.55,79.3527,semi-arid,0.4599,135,96.2,5,matched
+Madhya Pradesh,Khargone,21.82,75.6187,semi-arid,0.215,135,45.0,5,matched
+Uttar Pradesh,Lucknow,26.85,80.95,humid-subtropical,3.382,150,786.3,9,matched
+Uttar Pradesh,Kanpur,26.4499,80.3319,humid-subtropical,0.2438,135,51.0,5,matched
+Uttar Pradesh,Ghaziabad,28.67,77.42,humid-subtropical,2.3758,150,552.4,8,matched
+Uttar Pradesh,Agra,27.18,78.02,humid-subtropical,1.7603,135,368.3,8,matched
+Uttar Pradesh,Varanasi,25.3189,83.0128,humid-subtropical,1.1985,135,250.8,7,matched
+Uttar Pradesh,Prayagraj,25.4358,81.8463,humid-subtropical,0.01,115,1.8,3,manual
+Uttar Pradesh,Meerut,28.98,77.71,humid-subtropical,1.3054,135,273.2,7,matched
+Uttar Pradesh,Noida,28.57,77.32,humid-subtropical,0.6373,135,133.3,6,matched
+Uttar Pradesh,Greater Noida,28.4744,77.504,humid-subtropical,0.01,115,1.8,3,manual
+Uttar Pradesh,Bareilly,28.3667,79.4306,humid-subtropical,1.0,135,209.2,6,matched
+Uttar Pradesh,Aligarh,27.88,78.08,humid-subtropical,1.1312,135,236.7,7,matched
+Uttar Pradesh,Moradabad,28.8319,78.7764,humid-subtropical,0.8898,135,186.2,6,matched
+Uttar Pradesh,Saharanpur,29.9639,77.5458,humid-subtropical,0.7055,135,147.6,6,matched
+Uttar Pradesh,Gorakhpur,26.7637,83.4039,humid-subtropical,0.6734,135,140.9,6,matched
+Uttar Pradesh,Mathura,27.4925,77.6736,humid-subtropical,0.4419,135,92.5,5,matched
+Uttar Pradesh,Firozabad,27.1507,78.3956,humid-subtropical,0.01,115,1.8,3,manual
+Uttar Pradesh,Jhansi,25.4486,78.5696,humid-subtropical,0.507,135,106.1,5,matched
+Uttar Pradesh,Muzaffarnagar,29.482,77.7,humid-subtropical,0.0108,115,1.9,3,matched
+Uttar Pradesh,Ayodhya,26.773,82.146,humid-subtropical,0.1652,135,34.6,4,matched
+Uttar Pradesh,Rampur,28.8,79.0,humid-subtropical,0.3252,135,68.1,5,matched
+Uttar Pradesh,Shahjahanpur,27.88,79.91,humid-subtropical,0.3461,135,72.4,5,matched
+Uttar Pradesh,Farrukhabad,27.39,79.581,humid-subtropical,0.2758,135,57.7,5,matched
+Uttar Pradesh,Etawah,26.77,79.03,humid-subtropical,0.2568,135,53.7,5,matched
+Uttar Pradesh,Mirzapur,25.146,82.569,humid-subtropical,2.497,150,580.5,8,matched
+Uttar Pradesh,Hapur,28.7309,77.7757,humid-subtropical,0.317,135,66.3,5,matched
+Uttar Pradesh,Bijnor,29.37,78.13,humid-subtropical,0.1154,125,22.4,4,matched
+Uttar Pradesh,Amroha,28.9044,78.4675,humid-subtropical,0.1985,135,41.5,5,matched
+Uttar Pradesh,Unnao,26.55,80.49,humid-subtropical,0.1777,135,37.2,4,matched
+Uttar Pradesh,Rae Bareli,26.2236,81.2403,humid-subtropical,0.1913,135,40.0,5,matched
+Uttar Pradesh,Sitapur,27.57,80.66,humid-subtropical,0.1774,135,37.1,4,matched
+Uttar Pradesh,Lakhimpur,26.2897,90.2281,humid-subtropical,0.0166,115,3.0,3,matched
+Uttar Pradesh,Banda,24.0449,78.9609,humid-subtropical,0.0346,115,6.2,4,matched
+Uttar Pradesh,Gonda,21.958,70.795,humid-subtropical,0.1734,135,36.3,4,matched
+Uttar Pradesh,Deoria,26.1791,85.0234,humid-subtropical,0.0167,115,3.0,3,matched
+Uttar Pradesh,Azamgarh,26.0685,83.1836,humid-subtropical,0.01,115,1.8,3,manual
+Uttar Pradesh,Ballia,25.7604,84.1471,humid-subtropical,0.1044,125,20.2,4,matched
+Uttar Pradesh,Jaunpur,25.73,82.68,humid-subtropical,0.1804,135,37.7,4,matched
+Uttar Pradesh,Basti,30.5872,76.8428,humid-subtropical,0.027,115,4.8,4,matched
+Uttar Pradesh,Sambhal,28.58,78.55,humid-subtropical,0.2208,135,46.2,5,matched
+Uttar Pradesh,Orai,25.98,79.47,humid-subtropical,0.1906,135,39.9,5,matched
+Rajasthan,Jaipur,26.9,75.8,semi-arid,3.0734,150,714.6,9,matched
+Rajasthan,Jodhpur,26.28,73.02,semi-arid,1.0339,135,216.3,7,matched
+Rajasthan,Kota,25.18,75.83,semi-arid,1.0017,135,209.6,6,matched
+Rajasthan,Udaipur,24.58,73.68,semi-arid,0.4511,135,94.4,5,matched
+Rajasthan,Ajmer,26.4499,74.6399,semi-arid,0.5511,135,115.3,6,matched
+Rajasthan,Bikaner,28.0167,73.3119,arid,0.529,135,110.7,6,matched
+Rajasthan,Alwar,27.5498,76.6355,semi-arid,0.3414,135,71.4,5,matched
+Rajasthan,Bharatpur,27.22,77.48,semi-arid,0.2523,135,52.8,5,matched
+Rajasthan,Bhilwara,25.35,74.63,semi-arid,0.7095,135,148.5,6,matched
+Rajasthan,Sikar,27.62,75.15,semi-arid,0.3593,135,75.2,5,matched
+Rajasthan,Sri Ganganagar,29.92,73.88,arid,0.2378,135,49.8,5,matched
+Rajasthan,Pali,25.77,73.33,semi-arid,0.23,135,48.1,5,matched
+Rajasthan,Tonk,26.1505,75.79,semi-arid,0.01,115,1.8,3,matched
+Rajasthan,Kishangarh,26.57,74.87,semi-arid,0.1549,135,32.4,4,matched
+Rajasthan,Beawar,26.1,74.32,semi-arid,0.1515,135,31.7,4,matched
+Rajasthan,Chittorgarh,24.88,74.63,semi-arid,0.1164,125,22.6,4,matched
+Rajasthan,Barmer,25.7521,71.3967,arid,0.01,115,1.8,3,manual
+Rajasthan,Jaisalmer,26.913,70.915,arid,0.0655,125,12.7,4,matched
+Rajasthan,Dholpur,26.7025,77.893,semi-arid,0.01,115,1.8,3,manual
+Rajasthan,Hanumangarh,29.58,74.32,arid,0.1297,125,25.1,4,matched
+Delhi,New Delhi,28.6139,77.2089,semi-arid,0.25,135,52.3,5,matched
+Delhi,Delhi,28.61,77.23,semi-arid,32.226,150,7492.5,10,matched
+Delhi,Dwarka,28.5921,77.046,semi-arid,0.01,115,1.8,3,manual
+Delhi,Rohini,28.7495,77.0565,semi-arid,0.01,115,1.8,3,manual
+Delhi,Narela,28.8527,77.0929,semi-arid,0.01,115,1.8,3,manual
+Delhi,Karol Bagh,28.6519,77.1909,semi-arid,0.01,115,1.8,3,manual
+Delhi,Shahdara,28.6733,77.289,semi-arid,0.01,115,1.8,3,manual
+Delhi,Najafgarh,28.6092,76.9798,semi-arid,0.01,115,1.8,3,manual
+Delhi,Saket,28.5245,77.2066,semi-arid,0.01,115,1.8,3,manual
+Delhi,Vasant Kunj,28.5215,77.1595,semi-arid,0.01,115,1.8,3,manual
+Karnataka,Bengaluru,12.9789,77.5917,tropical-dry,15.386,150,3577.2,10,matched
+Karnataka,Mysuru,12.3086,76.6531,tropical-dry,0.9205,135,192.6,6,matched
+Karnataka,Hubballi-Dharwad,15.3502,75.1376,tropical-dry,0.9438,135,197.5,6,matched
+Karnataka,Mangaluru,12.8717,74.8425,coastal,0.6238,135,130.5,6,matched
+Karnataka,Belagavi,15.85,74.5,tropical-dry,0.4882,135,102.1,5,matched
+Karnataka,Kalaburagi,17.329,76.825,tropical-dry,0.5336,135,111.7,6,matched
+Karnataka,Davanagere,14.4666,75.9242,tropical-dry,0.4351,135,91.0,5,matched
+Karnataka,Ballari,15.1,76.9167,tropical-dry,0.4104,135,85.9,5,matched
+Karnataka,Vijayapura,16.83,75.71,tropical-dry,0.3274,135,68.5,5,matched
+Karnataka,Shivamogga,13.9333,75.5667,tropical-dry,0.3226,135,67.5,5,matched
+Karnataka,Tumakuru,13.34,77.1,tropical-dry,0.5991,135,125.4,6,matched
+Karnataka,Udupi,13.3409,74.7421,coastal,0.01,115,1.8,3,manual
+Karnataka,Hassan,13.012,76.068,tropical-dry,0.1334,125,25.9,4,matched
+Karnataka,Raichur,16.2,77.37,tropical-dry,0.2341,135,49.0,5,matched
+Karnataka,Bidar,17.912,77.52,tropical-dry,0.1723,135,36.1,4,matched
+Karnataka,Hosapete,15.2689,76.3909,tropical-dry,0.2062,135,43.1,5,matched
+Karnataka,Chitradurga,14.2251,76.398,tropical-dry,0.01,115,1.8,3,manual
+Karnataka,Gadag,15.4167,75.6167,tropical-dry,0.1728,135,36.2,4,matched
+Karnataka,Kolar,13.1333,78.1333,tropical-dry,0.1385,125,26.8,4,matched
+Karnataka,Mandya,12.52,76.9,tropical-dry,0.1374,125,26.6,4,matched
+Karnataka,Chikkamagaluru,13.313,75.737,tropical-dry,0.1184,125,22.9,4,matched
+Karnataka,Karwar,14.8,74.13,coastal,0.1552,135,32.5,4,matched
+Karnataka,Ramanagara,12.7212,77.2806,tropical-dry,0.01,115,1.8,3,manual
+Karnataka,Bagalkot,16.1817,75.6958,tropical-dry,0.1121,125,21.7,4,matched
+Karnataka,Yadgir,16.77,77.138,tropical-dry,0.01,115,1.8,3,manual
+Tamil Nadu,Chennai,13.0825,80.275,coastal,12.395,150,2881.8,10,matched
+Tamil Nadu,Coimbatore,11.0008,76.9633,tropical-dry,0.9598,135,200.8,6,matched
+Tamil Nadu,Madurai,9.9252,78.1198,tropical-dry,1.5611,135,326.7,7,matched
+Tamil Nadu,Tiruchirappalli,10.7905,78.7047,tropical-dry,0.01,115,1.8,3,manual
+Tamil Nadu,Salem,11.65,78.15,tropical-dry,0.6932,135,145.1,6,matched
+Tamil Nadu,Tiruppur,11.1085,77.3411,tropical-dry,0.8778,135,183.7,6,matched
+Tamil Nadu,Erode,11.3409,77.7171,tropical-dry,0.1512,135,31.6,4,matched
+Tamil Nadu,Tirunelveli,8.7139,77.7567,tropical-dry,0.01,115,1.8,3,manual
+Tamil Nadu,Vellore,12.9165,79.1325,tropical-dry,0.4847,135,101.4,5,matched
+Tamil Nadu,Thoothukudi,8.8056,78.145,coastal,0.5,135,104.6,5,matched
+Tamil Nadu,Dindigul,10.35,77.95,tropical-dry,0.2073,135,43.4,5,matched
+Tamil Nadu,Thanjavur,10.787,79.1378,tropical-dry,0.01,115,1.8,3,manual
+Tamil Nadu,Ranipet,12.9247,79.3333,tropical-dry,0.0624,125,12.1,4,matched
+Tamil Nadu,Nagercoil,8.175,77.4306,coastal,0.2899,135,60.7,5,matched
+Tamil Nadu,Kanchipuram,12.8185,79.6947,tropical-dry,0.1644,135,34.4,4,matched
+Tamil Nadu,Karur,10.9601,78.0766,tropical-dry,0.3947,135,82.6,5,matched
+Tamil Nadu,Hosur,12.7409,77.8253,tropical-dry,0.2295,135,48.0,5,matched
+Tamil Nadu,Cuddalore,11.75,79.75,coastal,0.1737,135,36.3,4,matched
+Tamil Nadu,Sivakasi,9.4533,77.8024,tropical-dry,0.26,135,54.4,5,matched
+Tamil Nadu,Namakkal,11.2167,78.1667,tropical-dry,0.1195,125,23.2,4,matched
+Tamil Nadu,Tiruvannamalai,12.13,79.07,tropical-dry,0.1723,135,36.1,4,matched
+Tamil Nadu,Pollachi,10.659,77.008,tropical-dry,0.0902,125,17.5,4,matched
+Tamil Nadu,Pudukkottai,10.3833,78.8001,tropical-dry,0.2255,135,47.2,5,matched
+Tamil Nadu,Krishnagiri,12.5317,78.2174,tropical-dry,0.0853,125,16.5,4,matched
+Tamil Nadu,Nagapattinam,10.7659,79.8449,coastal,0.01,115,1.8,3,manual
+Telangana,Hyderabad,17.3617,78.4747,semi-arid,10.494,150,2439.9,10,matched
+Telangana,Warangal,17.9689,79.5941,semi-arid,0.7046,135,147.4,6,matched
+Telangana,Karimnagar,18.4386,79.1288,semi-arid,0.7974,135,166.9,6,matched
+Telangana,Nizamabad,18.672,78.094,semi-arid,0.3112,135,65.1,5,matched
+Telangana,Khammam,17.2473,80.1514,semi-arid,0.1963,135,41.1,5,matched
+Telangana,Ramagundam,18.7639,79.475,semi-arid,0.243,135,50.8,5,matched
+Telangana,Mahbubnagar,16.7488,78.0035,semi-arid,0.1904,135,39.8,5,matched
+Telangana,Nalgonda,17.0575,79.2684,semi-arid,0.1543,135,32.3,4,matched
+Telangana,Adilabad,19.67,78.53,semi-arid,0.1172,125,22.7,4,matched
+Telangana,Siddipet,18.1019,78.8519,semi-arid,0.0667,125,12.9,4,matched
+Telangana,Suryapet,17.1406,79.6203,semi-arid,0.01,115,1.8,3,manual
+Telangana,Miryalaguda,16.872,79.565,semi-arid,0.01,115,1.8,3,manual
+Telangana,Mancherial,18.8714,79.4443,semi-arid,0.11,125,21.3,4,matched
+Telangana,Jagtial,18.7895,78.912,semi-arid,0.01,115,1.8,3,matched
+Telangana,Kothagudem,17.55,80.63,semi-arid,0.0798,125,15.5,4,matched
+Telangana,Sangareddy,17.6119,78.0819,semi-arid,0.0723,125,14.0,4,matched
+Telangana,Medak,18.046,78.263,semi-arid,0.0443,115,7.9,4,matched
+Telangana,Vikarabad,17.33,77.9,semi-arid,0.0531,125,10.3,4,matched
+Telangana,Bodhan,18.67,77.9,semi-arid,0.0776,125,15.0,4,matched
+Telangana,Wanaparthy,16.3633,78.062,semi-arid,0.01,115,1.8,3,manual
+Andhra Pradesh,Visakhapatnam,17.7042,83.2978,coastal,2.0359,150,473.4,8,matched
+Andhra Pradesh,Vijayawada,16.5193,80.6305,tropical-dry,1.4769,135,309.0,7,matched
+Andhra Pradesh,Guntur,16.3008,80.4428,tropical-dry,0.6701,135,140.2,6,matched
+Andhra Pradesh,Nellore,14.4431,79.9861,coastal,0.5476,135,114.6,6,matched
+Andhra Pradesh,Kurnool,15.83,78.05,tropical-dry,0.4576,135,95.8,5,matched
+Andhra Pradesh,Tirupati,13.65,79.42,tropical-dry,0.2875,135,60.2,5,matched
+Andhra Pradesh,Rajamahendravaram,16.98,81.78,coastal,0.3418,135,71.5,5,matched
+Andhra Pradesh,Kakinada,16.9661,82.255,coastal,0.3842,135,80.4,5,matched
+Andhra Pradesh,Kadapa,14.47,78.82,tropical-dry,0.3449,135,72.2,5,matched
+Andhra Pradesh,Anantapur,14.68,77.599,tropical-dry,0.2672,135,55.9,5,matched
+Andhra Pradesh,Eluru,16.7117,81.1031,tropical-dry,0.2038,135,42.6,5,matched
+Andhra Pradesh,Ongole,15.506,80.049,coastal,0.2047,135,42.8,5,matched
+Andhra Pradesh,Machilipatnam,16.17,81.13,coastal,0.232,135,48.5,5,matched
+Andhra Pradesh,Srikakulam,18.3,83.9,coastal,0.1379,125,26.7,4,matched
+Andhra Pradesh,Vizianagaram,18.1159,83.406,coastal,0.2287,135,47.9,5,matched
+Andhra Pradesh,Chittoor,13.216,79.098,tropical-dry,0.1756,135,36.8,4,matched
+Andhra Pradesh,Tenali,16.239,80.645,tropical-dry,0.1649,135,34.5,4,matched
+Andhra Pradesh,Proddatur,14.75,78.55,tropical-dry,0.164,135,34.3,4,matched
+Andhra Pradesh,Hindupur,13.83,77.49,tropical-dry,0.1517,135,31.7,4,matched
+Andhra Pradesh,Amaravati,16.5131,80.5165,tropical-dry,0.103,125,20.0,4,matched
+Kerala,Thiruvananthapuram,8.5241,76.9366,coastal,0.7437,135,155.6,6,matched
+Kerala,Kochi,9.9312,76.2673,coastal,0.6774,135,141.7,6,matched
+Kerala,Kozhikode,11.2588,75.7804,coastal,0.4316,135,90.3,5,matched
+Kerala,Thrissur,10.5276,76.2144,tropical-wet,0.3156,135,66.0,5,matched
+Kerala,Kollam,8.8932,76.6141,coastal,0.3974,135,83.2,5,matched
+Kerala,Kannur,11.8745,75.3704,coastal,0.2325,135,48.6,5,matched
+Kerala,Alappuzha,9.49,76.33,coastal,0.241,135,50.4,5,matched
+Kerala,Palakkad,10.775,76.651,tropical-wet,0.131,125,25.4,4,matched
+Kerala,Kottayam,9.5916,76.5222,tropical-wet,0.5719,135,119.7,6,matched
+Kerala,Malappuram,11.042,76.0815,tropical-wet,0.0757,125,14.7,4,matched
+Kerala,Manjeri,11.1202,76.12,tropical-wet,0.0537,125,10.4,4,matched
+Kerala,Thalassery,11.7481,75.4929,coastal,0.0994,125,19.3,4,matched
+Kerala,Ponnani,10.77,75.9,coastal,0.0905,125,17.5,4,matched
+Kerala,Kasaragod,12.5,75.0,coastal,0.0542,125,10.5,4,matched
+Kerala,Pathanamthitta,9.2648,76.787,tropical-wet,0.0378,115,6.7,4,matched
+Kerala,Vatakara,11.5983,75.59,coastal,0.01,115,1.8,3,manual
+Kerala,Perinthalmanna,10.9765,76.2269,tropical-wet,0.0497,115,8.9,4,matched
+Kerala,Kanhangad,12.3167,75.0667,coastal,0.0655,125,12.7,4,matched
+Kerala,Guruvayur,10.5946,76.0369,tropical-wet,0.067,125,13.0,4,matched
+Kerala,Idukki,9.85,76.97,tropical-wet,0.0217,115,3.9,4,matched
+West Bengal,Kolkata,22.5675,88.37,coastal,21.747,150,5056.2,10,matched
+West Bengal,Howrah,22.58,88.3294,coastal,1.0771,135,225.4,7,matched
+West Bengal,Durgapur,23.55,87.32,tropical-wet,0.726,135,151.9,6,matched
+West Bengal,Asansol,23.68,86.99,tropical-wet,0.5639,135,118.0,6,matched
+West Bengal,Siliguri,26.71,88.43,tropical-wet,0.7015,135,146.8,6,matched
+West Bengal,Bardhaman,23.2333,87.8667,tropical-wet,0.3143,135,65.8,5,matched
+West Bengal,Kharagpur,22.3302,87.3237,tropical-wet,0.2076,135,43.4,5,matched
+West Bengal,Haldia,22.0667,88.0698,coastal,0.2008,135,42.0,5,matched
+West Bengal,Darjeeling,27.0375,88.2631,temperate-highland,0.1188,125,23.0,4,matched
+West Bengal,Malda,25.0044,88.1458,tropical-wet,0.2055,135,43.0,5,matched
+West Bengal,Jalpaiguri,26.52,88.73,tropical-wet,0.1073,125,20.8,4,matched
+West Bengal,Baharampur,24.1,88.25,tropical-wet,0.1952,135,40.9,5,matched
+West Bengal,Krishnanagar,23.4,88.5,tropical-wet,0.1531,135,32.0,4,matched
+West Bengal,Raiganj,25.62,88.12,tropical-wet,0.1836,135,38.4,4,matched
+West Bengal,Cooch Behar,26.3242,89.451,tropical-wet,0.0779,125,15.1,4,matched
+West Bengal,Alipurduar,26.489,89.527,tropical-wet,0.0652,125,12.6,4,matched
+West Bengal,Bankura,23.25,87.07,tropical-wet,0.1374,125,26.6,4,matched
+West Bengal,Purulia,23.34,86.36,tropical-wet,0.1211,125,23.5,4,matched
+West Bengal,Ranaghat,23.18,88.58,tropical-wet,0.0754,125,14.6,4,matched
+West Bengal,Chandannagar,22.87,88.38,coastal,0.1669,135,34.9,4,matched
+Bihar,Patna,25.594,85.1376,humid-subtropical,1.6842,135,352.4,8,matched
+Bihar,Gaya,24.75,85.01,humid-subtropical,0.4741,135,99.2,5,matched
+Bihar,Bhagalpur,25.25,87.0,humid-subtropical,0.4102,135,85.8,5,matched
+Bihar,Muzaffarpur,26.1225,85.3906,humid-subtropical,0.3332,135,69.7,5,matched
+Bihar,Darbhanga,26.17,85.9,humid-subtropical,0.296,135,61.9,5,matched
+Bihar,Purnia,19.18,77.05,humid-subtropical,0.0364,115,6.5,4,matched
+Bihar,Bihar Sharif,25.197,85.518,humid-subtropical,0.2973,135,62.2,5,matched
+Bihar,Arrah,25.5514,84.6603,humid-subtropical,0.2614,135,54.7,5,matched
+Bihar,Begusarai,25.42,86.13,humid-subtropical,0.252,135,52.7,5,matched
+Bihar,Katihar,25.53,87.58,humid-subtropical,0.2406,135,50.3,5,matched
+Bihar,Munger,25.381,86.465,humid-subtropical,0.2131,135,44.6,5,matched
+Bihar,Chhapra,26.4005,85.3721,humid-subtropical,0.0132,115,2.4,3,matched
+Bihar,Bettiah,26.8014,84.5028,humid-subtropical,0.4145,135,86.7,5,matched
+Bihar,Samastipur,25.8629,85.7811,humid-subtropical,0.2531,135,53.0,5,matched
+Bihar,Hajipur,25.6925,85.2084,humid-subtropical,0.1477,125,28.6,4,matched
+Bihar,Sasaram,24.95,84.03,humid-subtropical,0.3583,135,75.0,5,matched
+Bihar,Dehri,24.91,84.18,humid-subtropical,0.1372,125,26.6,4,matched
+Bihar,Motihari,26.65,84.9167,humid-subtropical,0.4262,135,89.2,5,matched
+Bihar,Kishanganj,26.0794,87.9372,humid-subtropical,0.1058,125,20.5,4,matched
+Bihar,Sitamarhi,26.6,85.48,humid-subtropical,0.1061,125,20.6,4,matched
+Jharkhand,Ranchi,23.36,85.33,humid-subtropical,1.0734,135,224.6,7,matched
+Jharkhand,Jamshedpur,22.7925,86.1842,humid-subtropical,1.558,135,326.0,7,matched
+Jharkhand,Dhanbad,23.7998,86.4305,humid-subtropical,1.1625,135,243.2,7,matched
+Jharkhand,Bokaro Steel City,23.7871,85.9564,humid-subtropical,0.0481,115,8.6,4,matched
+Jharkhand,Deoghar,24.48,86.7,humid-subtropical,0.2031,135,42.5,5,matched
+Jharkhand,Hazaribagh,23.98,85.35,humid-subtropical,0.1425,125,27.6,4,matched
+Jharkhand,Giridih,24.18,86.3,humid-subtropical,0.01,115,1.8,3,manual
+Jharkhand,Ramgarh,25.2889,83.6535,humid-subtropical,0.01,115,1.8,3,matched
+Jharkhand,Medininagar,24.03,84.07,humid-subtropical,0.1589,135,33.3,4,matched
+Jharkhand,Phusro,23.77,85.99,humid-subtropical,0.0892,125,17.3,4,matched
+Jharkhand,Chaibasa,22.55,85.8,humid-subtropical,0.01,115,1.8,3,manual
+Jharkhand,Dumka,24.42,87.34,humid-subtropical,0.0476,115,8.5,4,matched
+Jharkhand,Sahibganj,25.25,87.65,humid-subtropical,0.112,125,21.7,4,matched
+Jharkhand,Godda,24.827,87.2125,humid-subtropical,0.0488,115,8.7,4,matched
+Jharkhand,Gumla,23.0444,84.5417,humid-subtropical,0.0801,125,15.5,4,matched
+Jharkhand,Lohardaga,23.4331,84.6799,humid-subtropical,0.0574,125,11.1,4,matched
+Jharkhand,Chatra,24.2064,84.8708,humid-subtropical,0.05,115,8.9,4,matched
+Jharkhand,Koderma,24.4675,85.594,humid-subtropical,0.0228,115,4.1,4,matched
+Jharkhand,Jamtara,23.9633,86.8014,humid-subtropical,0.0904,125,17.5,4,matched
+Jharkhand,Simdega,22.62,84.52,humid-subtropical,0.0801,125,15.5,4,matched
+Odisha,Bhubaneswar,20.27,85.84,tropical-wet,0.8377,135,175.3,6,matched
+Odisha,Cuttack,20.5236,85.7881,tropical-wet,0.606,135,126.8,6,matched
+Odisha,Rourkela,22.2492,84.8828,tropical-wet,0.6,135,125.5,6,matched
+Odisha,Berhampur,19.315,84.7941,coastal,0.3558,135,74.5,5,matched
+Odisha,Sambalpur,21.47,83.97,tropical-wet,0.3358,135,70.3,5,matched
+Odisha,Puri,19.8106,85.8314,coastal,0.201,135,42.1,5,matched
+Odisha,Balasore,21.5033,86.925,coastal,0.1444,125,28.0,4,matched
+Odisha,Baripada,21.94,86.72,tropical-wet,0.1169,125,22.6,4,matched
+Odisha,Bhadrak,21.0545,86.5156,coastal,0.1221,125,23.7,4,matched
+Odisha,Jharsuguda,21.86,84.03,tropical-wet,0.01,115,1.8,3,manual
+Odisha,Jeypore,18.8563,82.5716,tropical-wet,0.1011,125,19.6,4,matched
+Odisha,Angul,20.8381,85.0956,tropical-wet,0.0444,115,7.9,4,matched
+Odisha,Dhenkanal,20.67,85.6,tropical-wet,0.0674,125,13.1,4,matched
+Odisha,Kendujhar,21.63,85.58,tropical-wet,0.01,115,1.8,3,manual
+Odisha,Rayagada,19.17,83.42,tropical-wet,0.0712,125,13.8,4,matched
+Odisha,Koraput,18.812,82.7105,tropical-wet,0.0522,125,10.1,4,matched
+Odisha,Paradip,22.048,85.0998,coastal,0.15,135,31.4,4,approximate
+Odisha,Bargarh,21.3333,83.6167,tropical-wet,0.0806,125,15.6,4,matched
+Odisha,Sundargarh,22.12,84.03,tropical-wet,0.045,115,8.0,4,matched
+Odisha,Talcher,20.95,85.23,tropical-wet,0.0408,115,7.3,4,matched
+Chhattisgarh,Raipur,21.2444,81.6306,tropical-dry,1.0101,135,211.4,6,matched
+Chhattisgarh,Bhilai,21.21,81.38,tropical-dry,0.6247,135,130.7,6,matched
+Chhattisgarh,Bilaspur,22.09,82.15,tropical-dry,1.6255,135,340.1,7,matched
+Chhattisgarh,Korba,22.3458,82.6963,tropical-dry,0.3653,135,76.4,5,matched
+Chhattisgarh,Durg,21.1904,81.2849,tropical-dry,0.01,115,1.8,3,manual
+Chhattisgarh,Rajnandgaon,19.2935,83.1955,tropical-dry,0.15,135,31.4,4,approximate
+Chhattisgarh,Jagdalpur,19.18,81.92,tropical-dry,0.3255,135,68.1,5,matched
+Chhattisgarh,Raigarh,21.8974,83.395,tropical-dry,0.1354,125,26.2,4,matched
+Chhattisgarh,Ambikapur,23.12,83.2,tropical-dry,0.1211,125,23.5,4,matched
+Chhattisgarh,Dhamtari,20.71,81.55,tropical-dry,0.1017,125,19.7,4,matched
+Chhattisgarh,Mahasamund,21.11,82.1,tropical-dry,0.1122,125,21.7,4,matched
+Chhattisgarh,Chirmiri,22.3549,83.321,tropical-dry,0.15,135,31.4,4,approximate
+Chhattisgarh,Kawardha,21.6639,84.0131,tropical-dry,0.15,135,31.4,4,approximate
+Chhattisgarh,Kanker,23.4348,85.3206,tropical-dry,0.0216,115,3.9,4,matched
+Chhattisgarh,Dantewada,18.9,81.339,tropical-dry,0.0136,115,2.4,3,matched
+Chhattisgarh,Janjgir,22.017,82.567,tropical-dry,0.0406,115,7.2,4,matched
+Chhattisgarh,Mungeli,22.07,81.68,tropical-dry,0.1084,125,21.0,4,matched
+Chhattisgarh,Balod,22.8308,83.2845,tropical-dry,0.15,135,31.4,4,approximate
+Chhattisgarh,Bemetara,21.8607,81.8637,tropical-dry,0.15,135,31.4,4,approximate
+Chhattisgarh,Tilda Newra,22.213,82.0176,tropical-dry,0.15,135,31.4,4,approximate
+Punjab,Ludhiana,30.91,75.85,semi-arid,1.6189,135,338.8,7,matched
+Punjab,Amritsar,31.64,74.86,semi-arid,1.1324,135,237.0,7,matched
+Punjab,Jalandhar,31.326,75.5762,semi-arid,0.8737,135,182.8,6,matched
+Punjab,Patiala,30.34,76.38,semi-arid,0.7633,135,159.7,6,matched
+Punjab,Bathinda,30.23,74.9519,semi-arid,0.2858,135,59.8,5,matched
+Punjab,Mohali,30.7046,76.7179,semi-arid,0.01,115,1.8,3,manual
+Punjab,Hoshiarpur,31.8685,75.5259,semi-arid,0.15,135,31.4,4,approximate
+Punjab,Pathankot,32.2668,75.6,semi-arid,0.1559,135,32.6,4,matched
+Punjab,Moga,30.822,75.174,semi-arid,0.1599,135,33.5,4,matched
+Punjab,Batala,31.8186,75.2028,semi-arid,0.1833,135,38.4,4,matched
+Punjab,Khanna,30.7,76.22,semi-arid,0.1281,125,24.8,4,matched
+Punjab,Phagwara,31.22,75.77,semi-arid,0.118,125,22.9,4,matched
+Punjab,Abohar,30.1334,74.2001,semi-arid,0.1453,125,28.2,4,matched
+Punjab,Malerkotla,30.5167,75.8833,semi-arid,0.374,135,78.3,5,matched
+Punjab,Barnala,30.37,75.54,semi-arid,0.1164,125,22.6,4,matched
+Punjab,Firozpur,31.3045,76.0461,semi-arid,0.15,135,31.4,4,approximate
+Punjab,Kapurthala,31.38,75.38,semi-arid,0.1019,125,19.7,4,matched
+Punjab,Faridkot,30.67,74.76,semi-arid,0.0877,125,17.0,4,matched
+Punjab,Sangrur,30.2506,75.8442,semi-arid,0.088,125,17.1,4,matched
+Punjab,Muktsar,32.241,75.5234,semi-arid,0.15,135,31.4,4,approximate
+Haryana,Faridabad,28.4211,77.3078,semi-arid,1.4047,135,293.9,7,matched
+Haryana,Gurugram,28.456,77.029,semi-arid,0.8768,135,183.5,6,matched
+Haryana,Panipat,29.3875,76.97,semi-arid,1.2028,135,251.7,7,matched
+Haryana,Ambala,30.38,76.78,semi-arid,0.2079,135,43.5,5,matched
+Haryana,Yamunanagar,30.133,77.288,semi-arid,0.2166,135,45.3,5,matched
+Haryana,Rohtak,28.8909,76.5796,semi-arid,0.3743,135,78.3,5,matched
+Haryana,Hisar,29.15,75.7,semi-arid,0.307,135,64.2,5,matched
+Haryana,Karnal,29.686,76.989,semi-arid,0.3573,135,74.8,5,matched
+Haryana,Sonipat,28.99,77.022,semi-arid,0.402,135,84.1,5,matched
+Haryana,Panchkula,30.74,76.8,semi-arid,0.2114,135,44.2,5,matched
+Haryana,Bhiwani,28.78,76.13,semi-arid,0.1977,135,41.4,5,matched
+Haryana,Sirsa,29.5333,75.0167,semi-arid,0.1825,135,38.2,4,matched
+Haryana,Bahadurgarh,28.4252,76.4085,semi-arid,0.15,135,31.4,4,approximate
+Haryana,Jind,29.3167,76.3167,semi-arid,0.1676,135,35.1,4,matched
+Haryana,Rewari,28.18,76.62,semi-arid,0.143,125,27.7,4,matched
+Haryana,Kaithal,29.8015,76.3998,semi-arid,0.1449,125,28.1,4,matched
+Haryana,Palwal,28.1447,77.3255,semi-arid,0.1319,125,25.6,4,matched
+Haryana,Kurukshetra,28.2702,76.647,semi-arid,0.15,135,31.4,4,approximate
+Haryana,Fatehabad,29.52,75.45,semi-arid,0.0708,125,13.7,4,matched
+Haryana,Narnaul,28.0444,76.1056,semi-arid,0.1459,125,28.3,4,matched
+Uttarakhand,Dehradun,30.345,78.029,temperate-highland,0.5784,135,121.0,6,matched
+Uttarakhand,Haridwar,29.945,78.163,temperate-highland,0.2288,135,47.9,5,matched
+Uttarakhand,Roorkee,30.5817,78.6106,temperate-highland,0.15,135,31.4,4,approximate
+Uttarakhand,Haldwani,29.22,79.52,temperate-highland,0.656,135,137.3,6,matched
+Uttarakhand,Rudrapur,28.98,79.4,temperate-highland,0.1545,135,32.3,4,matched
+Uttarakhand,Kashipur,29.22,78.95,temperate-highland,0.3216,135,67.3,5,matched
+Uttarakhand,Rishikesh,30.1083,78.2972,temperate-highland,0.1021,125,19.8,4,matched
+Uttarakhand,Nainital,29.3919,79.4542,temperate-highland,0.0414,115,7.4,4,matched
+Uttarakhand,Almora,29.5971,79.6591,temperate-highland,0.0341,115,6.1,4,matched
+Uttarakhand,Pithoragarh,29.58,80.22,temperate-highland,0.056,125,10.9,4,matched
+Uttarakhand,Kotdwar,29.75,78.53,temperate-highland,0.1752,135,36.7,4,matched
+Uttarakhand,Vikasnagar,30.468,77.774,temperate-highland,0.0125,115,2.2,3,matched
+Uttarakhand,Mussoorie,30.45,78.08,temperate-highland,0.0301,115,5.4,4,matched
+Uttarakhand,Ramnagar,29.395,79.1264,temperate-highland,0.0979,125,19.0,4,matched
+Uttarakhand,Srinagar (Uttarakhand),30.222,78.784,temperate-highland,0.01,115,1.8,3,manual
+Uttarakhand,Tehri,30.38,78.48,temperate-highland,0.024,115,4.3,4,matched
+Uttarakhand,Chamoli,29.093,78.1665,temperate-highland,0.15,135,31.4,4,approximate
+Uttarakhand,Uttarkashi,30.73,78.45,temperate-highland,0.0402,115,7.2,4,matched
+Himachal Pradesh,Shimla,31.1033,77.1722,temperate-highland,0.2066,135,43.2,5,matched
+Himachal Pradesh,Dharamshala,32.2153,76.3186,temperate-highland,0.019,115,3.4,3,matched
+Himachal Pradesh,Solan,30.905,77.097,temperate-highland,0.0393,115,7.0,4,matched
+Himachal Pradesh,Mandi,31.7069,76.9317,temperate-highland,0.0264,115,4.7,4,matched
+Himachal Pradesh,Baddi,16.8957,71.5673,temperate-highland,0.15,135,31.4,4,approximate
+Himachal Pradesh,Kullu,31.95,77.11,temperate-highland,0.0185,115,3.3,3,matched
+Himachal Pradesh,Manali,13.1667,80.2667,temperate-highland,0.0377,115,6.7,4,matched
+Himachal Pradesh,Una,20.82,71.03,coastal,0.0585,125,11.3,4,matched
+Himachal Pradesh,Hamirpur,31.683,76.522,temperate-highland,0.01,115,1.8,3,manual
+Himachal Pradesh,Bilaspur (Himachal Pradesh),31.33,76.75,temperate-highland,0.01,115,1.8,3,manual
+Himachal Pradesh,Chamba,22.1047,73.1516,temperate-highland,0.15,135,31.4,4,approximate
+Himachal Pradesh,Nahan,30.55,77.3,temperate-highland,0.0289,115,5.2,4,matched
+Himachal Pradesh,Paonta Sahib,30.438,77.624,temperate-highland,0.0252,115,4.5,4,matched
+Himachal Pradesh,Sundernagar,31.53,76.88,temperate-highland,0.0243,115,4.3,4,matched
+Himachal Pradesh,Palampur,32.1097,76.5366,temperate-highland,0.0404,115,7.2,4,matched
+Assam,Guwahati,26.1722,91.7458,humid-subtropical,1.1163,135,233.6,7,matched
+Assam,Silchar,24.82,92.8,humid-subtropical,0.1728,135,36.2,4,matched
+Assam,Dibrugarh,27.48,95.0,humid-subtropical,0.154,135,32.2,4,matched
+Assam,Jorhat,26.75,94.22,humid-subtropical,0.1532,135,32.1,4,matched
+Assam,Tinsukia,27.5,95.367,humid-subtropical,0.0995,125,19.3,4,matched
+Assam,Tezpur,26.63,92.8,humid-subtropical,0.1025,125,19.9,4,matched
+Assam,Nagaon,25.3906,93.5197,humid-subtropical,0.15,135,31.4,4,approximate
+Assam,Bongaigaon,26.4769,90.5583,humid-subtropical,0.0673,125,13.0,4,matched
+Assam,Diphu,25.83,93.43,humid-subtropical,0.0618,125,12.0,4,matched
+Assam,Sivasagar,26.9754,93.8429,humid-subtropical,0.15,135,31.4,4,approximate
+Assam,Goalpara,26.17,90.62,humid-subtropical,0.0534,125,10.4,4,matched
+Assam,North Lakhimpur,27.2414,94.1056,humid-subtropical,0.1054,125,20.4,4,matched
+Assam,Barpeta,26.32,91.0,humid-subtropical,0.0426,115,7.6,4,matched
+Assam,Karimganj,24.87,92.35,humid-subtropical,0.0569,125,11.0,4,matched
+Assam,Dhemaji,27.4833,94.5833,humid-subtropical,0.0157,115,2.8,3,matched
+Assam,Haflong,26.6617,93.7271,humid-subtropical,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Itanagar,27.1,93.62,humid-subtropical,0.0595,125,11.5,4,matched
+Arunachal Pradesh,Naharlagun,27.2625,94.9142,humid-subtropical,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Pasighat,28.07,95.33,humid-subtropical,0.0247,115,4.4,4,matched
+Arunachal Pradesh,Tawang,27.7294,93.9116,temperate-highland,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Ziro,27.5664,93.8314,temperate-highland,0.0128,115,2.3,3,matched
+Arunachal Pradesh,Bomdila,27.6344,95.9833,temperate-highland,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Aalo,27.9105,95.8452,humid-subtropical,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Tezu,27.92,96.17,humid-subtropical,0.0144,115,2.6,3,matched
+Arunachal Pradesh,Roing,27.885,94.6763,humid-subtropical,0.15,135,31.4,4,approximate
+Arunachal Pradesh,Namsai,27.6012,94.505,humid-subtropical,0.15,135,31.4,4,approximate
+Meghalaya,Shillong,25.5822,91.8944,temperate-highland,0.1432,125,27.8,4,matched
+Meghalaya,Tura,25.52,90.22,humid-subtropical,0.0749,125,14.5,4,matched
+Meghalaya,Jowai,25.8115,89.4499,humid-subtropical,0.15,135,31.4,4,approximate
+Meghalaya,Nongstoin,25.52,91.27,humid-subtropical,0.0287,115,5.1,4,matched
+Meghalaya,Williamnagar,26.1114,91.582,humid-subtropical,0.15,135,31.4,4,approximate
+Meghalaya,Baghmara,26.44,86.43,humid-subtropical,0.0114,115,2.0,3,matched
+Meghalaya,Resubelpara,26.3379,89.9377,humid-subtropical,0.15,135,31.4,4,approximate
+Meghalaya,Khliehriat,26.4381,90.0364,humid-subtropical,0.15,135,31.4,4,approximate
+Meghalaya,Mairang,26.2274,91.434,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Imphal,24.8074,93.9384,humid-subtropical,0.265,135,55.4,5,matched
+Manipur,Thoubal,24.63,94.02,humid-subtropical,0.0459,115,8.2,4,matched
+Manipur,Bishnupur,23.075,87.317,temperate-highland,0.0678,125,13.1,4,matched
+Manipur,Churachandpur,24.7864,88.2582,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Kakching,24.6085,94.0029,humid-subtropical,0.0163,115,2.9,3,matched
+Manipur,Ukhrul,24.3354,92.1644,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Senapati,23.5715,93.4149,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Tamenglong,24.1239,88.6146,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Moreh,24.3791,89.2936,humid-subtropical,0.15,135,31.4,4,approximate
+Manipur,Jiribam,24.6466,89.4684,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Aizawl,23.7272,92.7178,temperate-highland,0.2934,135,61.4,5,matched
+Mizoram,Lunglei,22.88,92.73,temperate-highland,0.157,135,32.9,4,matched
+Mizoram,Champhai,23.4289,92.8547,temperate-highland,0.15,135,31.4,4,approximate
+Mizoram,Serchhip,22.8815,92.7947,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Kolasib,22.772,92.8954,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Saiha,22.48,92.97,humid-subtropical,0.0355,115,6.3,4,matched
+Mizoram,Lawngtlai,22.7204,92.9007,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Mamit,23.1332,92.8165,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Saitual,22.7103,92.7934,humid-subtropical,0.15,135,31.4,4,approximate
+Mizoram,Khawzawl,22.845,92.7689,humid-subtropical,0.15,135,31.4,4,approximate
+Nagaland,Dimapur,25.9092,93.7266,humid-subtropical,0.1228,125,23.8,4,matched
+Nagaland,Kohima,25.67,94.1,temperate-highland,0.099,125,19.2,4,matched
+Nagaland,Mokokchung,26.32,94.5,temperate-highland,0.0359,115,6.4,4,matched
+Nagaland,Tuensang,26.2716,94.8314,temperate-highland,0.0368,115,6.6,4,matched
+Nagaland,Wokha,26.1,94.27,temperate-highland,0.035,115,6.2,4,matched
+Nagaland,Zunheboto,26.0146,94.5264,temperate-highland,0.0228,115,4.1,4,matched
+Nagaland,Mon,26.1114,94.0236,humid-subtropical,0.15,135,31.4,4,approximate
+Nagaland,Phek,25.571,94.301,humid-subtropical,0.0104,115,1.8,3,matched
+Nagaland,Kiphire,26.1651,94.6619,humid-subtropical,0.15,135,31.4,4,approximate
+Nagaland,Longleng,25.6005,94.141,humid-subtropical,0.15,135,31.4,4,approximate
+Tripura,Agartala,23.8314,91.2869,humid-subtropical,0.5226,135,109.4,6,matched
+Tripura,Udaipur (Tripura),23.5333,91.4833,humid-subtropical,0.01,115,1.8,3,manual
+Tripura,Dharmanagar,24.3785,92.1783,humid-subtropical,0.0459,115,8.2,4,matched
+Tripura,Kailashahar,24.33,92.02,humid-subtropical,0.0234,115,4.2,4,matched
+Tripura,Belonia,23.25,91.45,humid-subtropical,0.0212,115,3.8,4,matched
+Tripura,Ambassa,23.7841,91.852,humid-subtropical,0.15,135,31.4,4,approximate
+Tripura,Khowai,24.065,91.605,humid-subtropical,0.0214,115,3.8,4,matched
+Tripura,Teliamura,24.0608,91.7268,humid-subtropical,0.15,135,31.4,4,approximate
+Tripura,Bishalgarh,23.6235,91.7849,humid-subtropical,0.15,135,31.4,4,approximate
+Tripura,Sabroom,24.03,91.8654,humid-subtropical,0.15,135,31.4,4,approximate
+Sikkim,Gangtok,27.33,88.62,temperate-highland,0.1003,125,19.4,4,matched
+Sikkim,Namchi,27.17,88.35,temperate-highland,0.0122,115,2.2,3,matched
+Sikkim,Gyalshing,27.2423,88.2205,temperate-highland,0.15,135,31.4,4,approximate
+Sikkim,Mangan,26.1388,86.9944,temperate-highland,0.0176,115,3.1,3,matched
+Sikkim,Singtam,26.2542,88.3591,temperate-highland,0.15,135,31.4,4,approximate
+Sikkim,Rangpo,27.1761,88.3102,temperate-highland,0.15,135,31.4,4,approximate
+Sikkim,Jorethang,26.7494,87.5145,temperate-highland,0.15,135,31.4,4,approximate
+Sikkim,Pakyong,26.7494,87.2259,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Srinagar,34.09,74.79,temperate-highland,1.1806,135,247.0,7,matched
+Jammu and Kashmir,Jammu,32.73,74.87,temperate-highland,0.5022,135,105.1,5,matched
+Jammu and Kashmir,Anantnag,31.8719,74.8609,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Baramulla,34.198,74.364,temperate-highland,0.168,135,35.2,4,matched
+Jammu and Kashmir,Udhampur,32.916,75.1419,temperate-highland,0.0355,115,6.3,4,matched
+Jammu and Kashmir,Kathua,32.3694,75.5254,temperate-highland,0.0599,125,11.6,4,matched
+Jammu and Kashmir,Sopore,32.6299,75.3943,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Pulwama,34.15,75.421,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Rajouri,34.093,74.6272,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Poonch,32.6014,75.2254,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Doda,30.3844,74.6394,temperate-highland,0.0115,115,2.1,3,matched
+Jammu and Kashmir,Kupwara,32.7807,75.0466,temperate-highland,0.15,135,31.4,4,approximate
+Jammu and Kashmir,Bandipora,34.4231,74.6361,temperate-highland,0.0275,115,4.9,4,matched
+Jammu and Kashmir,Kishtwar,33.3135,75.7673,temperate-highland,0.01,115,1.8,3,matched
+Jammu and Kashmir,Samba,32.5624,75.1199,temperate-highland,0.021,115,3.7,4,matched
+Jammu and Kashmir,Bijbehara,33.0538,74.4738,temperate-highland,0.15,135,31.4,4,approximate
+Ladakh,Leh,34.1642,77.5847,temperate-highland,0.0309,115,5.5,4,matched
+Ladakh,Kargil,34.5594,76.1256,temperate-highland,0.0163,115,2.9,3,matched
+Ladakh,Diskit,28.8804,79.6659,temperate-highland,0.15,135,31.4,4,approximate
+Ladakh,Padum,26.5766,86.2394,temperate-highland,0.0108,115,1.9,3,matched
+Ladakh,Nyoma,26.6733,78.195,temperate-highland,0.15,135,31.4,4,approximate
+Goa,Panaji,15.4989,73.8278,coastal,0.04,115,7.1,4,matched
+Goa,Margao,15.2774,73.7779,coastal,0.15,135,31.4,4,approximate
+Goa,Vasco da Gama,15.3981,73.8111,coastal,0.0944,125,18.3,4,matched
+Goa,Mapusa,15.4206,74.0299,coastal,0.15,135,31.4,4,approximate
+Goa,Ponda,15.4034,74.0152,coastal,0.0234,115,4.2,4,matched
+Goa,Bicholim,15.3582,73.7957,coastal,0.15,135,31.4,4,approximate
+Goa,Curchorem,15.2603,74.1083,coastal,0.0227,115,4.1,4,matched
+Goa,Canacona,15.4065,74.0432,coastal,0.15,135,31.4,4,approximate
+Goa,Sanquelim,15.5027,73.7669,coastal,0.0148,115,2.6,3,matched
+Goa,Cuncolim,15.1773,73.9939,coastal,0.0209,115,3.7,4,matched
+Chandigarh,Chandigarh,30.75,76.78,semi-arid,1.0554,135,220.9,7,matched
+Puducherry,Puducherry,13.5241,80.1531,coastal,0.15,135,31.4,4,approximate
+Puducherry,Karaikal,12.214,80.1598,coastal,0.15,135,31.4,4,approximate
+Puducherry,Mahe,11.7011,75.5367,tropical-wet,0.0368,115,6.6,4,matched
+Puducherry,Yanam,16.7333,82.2167,tropical-wet,0.076,125,14.7,4,matched
+Andaman and Nicobar Islands,Sri Vijaya Puram,11.6683,92.7378,coastal,0.1406,125,27.2,4,matched
+Andaman and Nicobar Islands,Diglipur,13.2667,93.0,coastal,0.0566,125,11.0,4,matched
+Andaman and Nicobar Islands,Mayabunder,12.4909,92.899,coastal,0.15,135,31.4,4,approximate
+Andaman and Nicobar Islands,Rangat,13.2409,92.9658,coastal,0.15,135,31.4,4,approximate
+Andaman and Nicobar Islands,Car Nicobar,12.9441,92.8651,coastal,0.15,135,31.4,4,approximate
+Dadra and Nagar Haveli and Daman and Diu,Silvassa,20.2708,73.005,coastal,0.0219,115,3.9,4,matched
+Dadra and Nagar Haveli and Daman and Diu,Daman,20.42,72.85,coastal,0.0443,115,7.9,4,matched
+Dadra and Nagar Haveli and Daman and Diu,Diu,20.7158,70.9858,coastal,0.0521,125,10.1,4,matched
+Lakshadweep,Kavaratti,10.5626,72.6369,coastal,0.0115,115,2.0,3,matched
+Lakshadweep,Agatti,10.5626,72.6369,coastal,0.15,135,31.4,4,approximate
+Lakshadweep,Andrott,10.5626,72.6369,coastal,0.15,135,31.4,4,approximate
+Lakshadweep,Minicoy,10.5626,72.6369,coastal,0.15,135,31.4,4,approximate
