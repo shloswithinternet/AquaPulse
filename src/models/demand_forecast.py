@@ -32,5 +32,7 @@ def evaluate(y_true, y_pred):
     denom = np.where(np.abs(y_true) < 1e-6, np.nan, y_true)
     mape = np.nanmean(np.abs((y_true - y_pred) / denom)) * 100
     r2 = r2_score(y_true, y_pred)
-    return {"MAE": round(mae, 3), "RMSE": round(rmse, 3),
-            "MAPE_%": round(float(mape), 2), "R2": round(r2, 4)}
+    mape_val = float(mape) if not np.isnan(mape) else 0.0
+    r2_val = float(r2) if not np.isnan(r2) else 0.0
+    return {"MAE": round(float(mae), 3), "RMSE": round(float(rmse), 3),
+            "MAPE_%": round(mape_val, 2), "R2": round(r2_val, 4)}

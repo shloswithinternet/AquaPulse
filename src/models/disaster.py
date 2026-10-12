@@ -26,7 +26,10 @@ _SEASON = {
 
 def hazard_scores(city: dict, month: int) -> dict[str, float]:
     """Season-adjusted relative likelihood per hazard (normalised to sum 1)."""
-    profile = city["disaster_profile"]
+    profile = city.get("disaster_profile")
+    if not profile:
+        from config import DISASTER_PROFILE
+        profile = DISASTER_PROFILE.get(city.get("climate_zone", "semi-arid"), DISASTER_PROFILE["semi-arid"])
     raw = {h: profile.get(h, 0.0) * _SEASON.get(h, {}).get(month, 1.0) for h in DISASTER_EFFECT}
     total = sum(raw.values()) or 1.0
     return {h: round(v / total, 4) for h, v in raw.items()}

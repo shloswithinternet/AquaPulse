@@ -234,7 +234,7 @@ def main(hours: int = DEMO_HOURS, write_dashboard: bool = True,
                       "observed_kl": round(float(r["demand_kl"]), 1),
                       "expected_kl": round(float(r["pred_demand"]), 1),
                       "z": round(float(r["z_resid"]), 2) if pd.notna(r["z_resid"]) else None,
-                      "score": round(float(r["anomaly_score"]), 2),
+                      "score": round(float(r["anomaly_score"]), 2) if pd.notna(r["anomaly_score"]) else 0.5,
                       "direction": "up" if r["demand_kl"] >= r["pred_demand"] else "down"}
                      for _, r in a_sub.iterrows()]
 

@@ -71,6 +71,8 @@ class TransferEngine:
         """Train on all cities except target; test on target."""
         train = feat_df[feat_df["city"] != target_city]
         test = feat_df[feat_df["city"] == target_city]
+        if test.empty:
+            return None
         m = _fit_fast(train[FEATURES].to_numpy(float), train["demand_kl"].to_numpy(float))
         pred = m.predict(test[FEATURES].to_numpy(float))
         return evaluate(test["demand_kl"].to_numpy(float), pred)
@@ -79,6 +81,8 @@ class TransferEngine:
         """Global model + up-weighted local window vs zero-shot."""
         train = feat_df[feat_df["city"] != target_city]
         local = feat_df[feat_df["city"] == target_city]
+        if local.empty:
+            return None
         cut = local["timestamp"].min() + pd.Timedelta(days=n_days)
         warm, test = local[local["timestamp"] < cut], local[local["timestamp"] >= cut]
         if len(warm) < 50 or len(test) < 50:

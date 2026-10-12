@@ -67,8 +67,8 @@ def analyse(city: dict, demand_kl: float, supply_ml: float, *,
 
     drivers: list[dict[str, Any]] = []
 
-    wsf, wsn = _weather_supply_factor(rain_mm, city["climate_zone"])
-    rsf, rsn = _reservoir_factor(reservoir_pct, city["reservoir_baseline_pct"])
+    wsf, wsn = _weather_supply_factor(rain_mm, city.get("climate_zone", "semi-arid"))
+    rsf, rsn = _reservoir_factor(reservoir_pct, city.get("reservoir_baseline_pct", 60.0))
     dsf = disaster["expected_supply_multiplier"] if disaster else 1.0
     supply_factor = wsf * rsf * dsf
     effective_supply = base_supply_kl * supply_factor
@@ -79,9 +79,9 @@ def analyse(city: dict, demand_kl: float, supply_ml: float, *,
                         "multiplier": dsf, "note": f"risk {disaster['disaster_risk']:.2f}"})
 
     wdf, wdn = _weather_demand_factor(temp_c)
-    popf = population["ten_year_demand_factor"] if population else 1.0
+    popf = population.get("ten_year_demand_factor", 1.0) if population else 1.0
     # Use a 1-year population factor for the "now" view (10-year shown separately).
-    popf_now = next((p["demand_factor"] for p in population["projection"] if p["years_ahead"] == 1), 1.0) if population else 1.0
+    popf_now = next((p["demand_factor"] for p in population.get("projection", []) if p["years_ahead"] == 1), 1.0) if population else 1.0
     ddf = disaster["expected_demand_multiplier"] if disaster else 1.0
     demand_factor = wdf * popf_now * ddf
     adjusted_demand = demand_kl * demand_factor

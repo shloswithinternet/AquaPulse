@@ -29,3 +29,4 @@ def test_evaluate_returns_expected_metrics(feat):
     m = evaluate(y, feat["pred_demand"].to_numpy(float))
     assert set(m) == {"MAE", "RMSE", "MAPE_%", "R2"}
     assert m["MAE"] >= 0
+    assert all(isinstance(v, float) for v in m.values())

@@ -144,6 +144,8 @@ def test_api_endpoints(monkeypatch, mini_bundle):
     assert c.get("/city/Nowhere").status_code == 404
     r = c.post("/ask", json={"question": "shortage in Testville"})
     assert r.status_code == 200 and r.json()["intent"] == "shortage"
+    rw = c.get("/weather/Testville")
+    assert rw.status_code == 200
 
 
 def test_api_scenario(monkeypatch, mini_bundle):
@@ -151,7 +153,7 @@ def test_api_scenario(monkeypatch, mini_bundle):
     monkeypatch.setattr(api, "bundle", lambda: mini_bundle)
     from fastapi.testclient import TestClient
     c = TestClient(api.app)
-    r = c.post("/scenario/Testville", json={"supply_ml": 200.0, "demand_multiplier": 1.2})
+    r = c.post("/scenario/Testville", json={"supply_ml": 200.0, "demand_multiplier": 1.2, "population_years": 3})
     assert r.status_code == 200
     body = r.json()
     assert body["scenario"] is True

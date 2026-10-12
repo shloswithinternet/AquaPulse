@@ -1,26 +1,26 @@
 city,zone_id,n_anomalies,peak_score,peak_demand
-New Delhi,NEW-Z05,1,1.0,404.941
-Amroha,AMR-Z01,1,1.0,378.017
-Nalgonda,NAL-Z03,1,1.0,851.576
-Panchkula,PAN-Z02,2,1.0,244.861
-Solan,SOL-Z04,1,1.0,120.061
-Sangareddy,SAN-Z01,1,1.0,174.297
-Tezpur,TEZ-Z02,2,1.0,186.016
-Tawang,TAW-Z02,1,1.0,319.279
-Machilipatnam,MAC-Z04,2,1.0,607.422
-Hyderabad,HYD-Z08,1,1.0,5247.095
 Dhenkanal,DHE-Z02,1,1.0,293.095
 Hosur,HOS-Z03,2,1.0,647.069
-Bengaluru,BEN-Z09,3,1.0,9437.779
-Bikaner,BIK-Z06,2,1.0,1107.116
-Chandannagar,CHA-Z01,2,1.0,1036.024
-Berhampur,BER-Z04,2,1.0,1287.936
-Mirzapur,MIR-Z08,2,1.0,2804.576
-Lawngtlai,LAW-Z01,1,1.0,376.738
-Imphal,IMP-Z01,5,1.0,717.569
 Machilipatnam,MAC-Z05,1,1.0,859.986
-Mumbai,MUM-Z09,33,1.0,36988.056
+Mirzapur,MIR-Z08,2,1.0,2804.576
+Tezpur,TEZ-Z02,2,1.0,186.016
+Chandannagar,CHA-Z01,2,1.0,1036.024
+Imphal,IMP-Z01,5,1.0,717.569
+Hyderabad,HYD-Z08,1,1.0,5247.095
+Panchkula,PAN-Z02,2,1.0,244.861
+Bengaluru,BEN-Z09,3,1.0,9437.779
+Amroha,AMR-Z01,1,1.0,378.017
+Sangareddy,SAN-Z01,1,1.0,174.297
+Berhampur,BER-Z04,2,1.0,1287.936
+New Delhi,NEW-Z05,1,1.0,404.941
+Machilipatnam,MAC-Z04,2,1.0,607.422
+Lawngtlai,LAW-Z01,1,1.0,376.738
+Bikaner,BIK-Z06,2,1.0,1107.116
+Tawang,TAW-Z02,1,1.0,319.279
 Mumbai,MUM-Z05,4,1.0,15114.808
+Solan,SOL-Z04,1,1.0,120.061
+Nalgonda,NAL-Z03,1,1.0,851.576
+Mumbai,MUM-Z09,33,1.0,36988.056
 Nagercoil,NAG-Z03,1,1.0,684.137
 North Lakhimpur,NOR-Z03,2,0.9878987478129657,268.803
 Dharmanagar,DHA-Z03,1,0.985339915086287,178.279

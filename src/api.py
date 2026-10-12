@@ -106,6 +106,11 @@ def city_detail(city: str):
 def city_weather(city: str):
     meta = get_city(city)
     if not meta:
+        try:
+            meta = next((x for x in bundle()["cities"] if x["city"].lower() == city.lower()), None)
+        except Exception:
+            meta = None
+    if not meta:
         raise HTTPException(404, f"Unknown city: {city}")
     return weather.get_weather(meta)
 
@@ -123,7 +128,7 @@ def scenario(city: str, s: Scenario):
     zones = np.array([z["pred_daily_kl"] for z in c["zones"]], dtype=float) * s.demand_multiplier
     # population adjustment
     if s.population_years > 0:
-        g = meta["growth_rate"]
+        g = c.get("growth_rate") or (meta["growth_rate"] if meta else 0.0)
         zones = zones * ((1.0 + g) ** s.population_years)
     # disaster override
     if s.hazard:

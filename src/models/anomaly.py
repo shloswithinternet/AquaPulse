@@ -40,8 +40,10 @@ def detect_anomalies(df, pred_col="pred_demand", target="demand_kl",
     iso.fit(iso_feats[:fit_n])
     df["iso_flag"] = iso.predict(iso_feats) == -1
 
-    df["is_anomaly"] = (np.abs(df["z_resid"]) > 3.0) | df["iso_flag"]
-    df["anomaly_score"] = np.clip(np.abs(df["z_resid"]) / 6.0, 0, 1)
+    df["is_anomaly"] = (np.abs(df["z_resid"].fillna(0.0)) > 3.0) | df["iso_flag"]
+    score = np.clip(np.abs(df["z_resid"].fillna(0.0)) / 6.0, 0.0, 1.0)
+    score = np.where(df["iso_flag"] & (score < 0.5), 0.5, score)
+    df["anomaly_score"] = score
     return df
 
 

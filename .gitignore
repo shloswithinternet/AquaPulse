@@ -3,4 +3,5 @@ __pycache__/
 .venv/
 .pytest_cache/
 results/economic_overrides.json
-cache_feat.pkl
+*.pkl
+results/*.pkl

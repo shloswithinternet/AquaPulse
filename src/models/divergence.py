@@ -88,8 +88,8 @@ def route_between_cities(city_states: list[dict]) -> dict[str, Any]:
 
     city_states: list of {city, lat, lon, residual_shortage_kl, surplus_kl}.
     """
-    donors = [c for c in city_states if c["surplus_kl"] > 0]
-    receivers = [c for c in city_states if c["residual_shortage_kl"] > 0]
+    donors = [dict(c) for c in city_states if c.get("surplus_kl", 0) > 0]
+    receivers = [c for c in city_states if c.get("residual_shortage_kl", 0) > 0]
     transfers = []
     for rec in sorted(receivers, key=lambda c: -c["residual_shortage_kl"]):
         need = rec["residual_shortage_kl"]
